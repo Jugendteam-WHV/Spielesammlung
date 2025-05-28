@@ -10,6 +10,7 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: A4/Jugendteam_Spielesammlung_A4.tex
+          working_directory: ./A4
       - name: Upload A4 PDF file
         uses: actions/upload-artifact@v4
         with:
