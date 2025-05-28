@@ -11,6 +11,7 @@ jobs:
         with:
           root_file: Jugendteam_Spielesammlung_A4.tex
           working_directory: ./A4
+          args: -pdf -file-line-error -interaction=nonstopmode
       - name: Upload A4 PDF file
         uses: actions/upload-artifact@v4
         with:
