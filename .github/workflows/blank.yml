@@ -9,7 +9,8 @@ jobs:
       - name: Compile A4
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: A4/Jugendteam_Spielesammlung_A4.tex
+          root_file: Jugendteam_Spielesammlung_A4.tex
+          working_directory: ./A4
       - name: Upload A4 PDF file
         uses: actions/upload-artifact@v4
         with:
@@ -18,7 +19,8 @@ jobs:
       - name: Compile A5
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: A5/Jugendteam_Spielesammlung_A5.tex
+          root_file: Jugendteam_Spielesammlung_A5.tex
+          orking_directory: ./A5
       - name: Upload A5 PDF file
         uses: actions/upload-artifact@v4
         with:
