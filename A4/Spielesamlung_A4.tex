@@ -1,0 +1,140 @@
+\documentclass[11pt,a4paper,ngerman]{book}
+\usepackage[left=2cm,right=2cm,top=2cm]{geometry} % Groesse der Seitenraender definieren
+\usepackage{graphicx} % Required for inserting images
+\usepackage{ltablex}
+\usepackage[ngerman]{babel}
+\usepackage{float}
+\usepackage{ltxtable}
+\usepackage{filecontents}
+\usepackage{pdfpages}
+\usepackage{fancyhdr}
+\usepackage{relsize}
+\usepackage{appendix}
+\usepackage{titlesec}
+\usepackage{lipsum}
+\usepackage{tipa}
+\renewcommand\RSlargest{100pt}
+\usepackage{tabularx, ragged2e}
+\usepackage{changepage}
+
+\usepackage{lipsum}
+\usepackage{everypage}
+%\definecolor{bbe}{RGB}{0,150,0}
+\definecolor{bbe}{RGB}{64,216,64}
+\usepackage{blindtext}
+\usepackage[pageanchor=false]{hyperref} % muss vor thumbs geladen sein
+\usepackage[width={15mm},distance={6mm}]{thumbs}
+\usepackage{tikz}
+
+\pagenumbering{arabic} %MÖCHTE DAS PAKET thumbs unbedingt haben?!
+
+
+
+\addthumbsoverviewtocontents{chapter}{Daumenregister}  % ``intoc''
+\thumbsoverview{Daumenregister}
+
+%\titleformat{\Section}
+%{\normalfont\Large\bfseries}
+%{}
+%{0pt}
+
+
+
+\newcommand{\Section}[1]{
+  \refstepcounter{section}
+  \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}%
+  \vspace{2ex}%
+  \noindent
+  \begin{tikzpicture}[baseline=(current bounding box.north)]
+    \node[right,
+          minimum width=6ex,
+          minimum height=3.25ex,
+          draw=bbe,
+          fill=bbe,
+          text=white,
+          align=center,
+          font=\fontsize{18pt}{22pt}\selectfont\bfseries\sffamily]
+          (section) at (0,0) {\thesection};
+    \node[anchor=north west,
+          text=bbe,
+          text width=\dimexpr\linewidth - 7ex\relax,
+          align=left,
+          font=\fontsize{18}{22pt}\selectfont\sffamily] 
+          (title) at (section.north east) {#1};
+    \draw[very thick, draw=bbe] (section.north west) -- ++(\linewidth,0);
+  \end{tikzpicture}
+  \par\vspace{1ex}
+}
+
+
+\newcommand{\Chapter}[1]{
+\chapter{#1}
+\thispagestyle{fancy}
+}
+
+
+
+
+\begin{document}
+\pagestyle{fancy}
+\fancyhead{} % clear all header fields
+\fancyhead[RO,LE]{\leftmark}
+\fancyfoot{} % clear all footer fields
+%\fancyfoot[LE,RO]{\thepage}
+
+\setlength{\parindent}{0em}
+\fancyfoot[RO]{%
+  \begin{tikzpicture}[remember picture, overlay]
+    \node[anchor=south east,
+          minimum height=2em,
+          minimum width=4em,
+          fill=bbe,
+          text=white,
+          font=\bfseries\sffamily,
+          align=center]
+          at ([yshift=0.75cm]current page.south east) {\thepage};
+  \end{tikzpicture}%
+}
+
+% Gerade Seiten → links unten
+\fancyfoot[LE]{%
+  \begin{tikzpicture}[remember picture, overlay]
+    \node[anchor=south west,
+          minimum height=2em,
+          minimum width=4em,
+          fill=bbe,
+          text=white,
+          font=\bfseries\sffamily,
+          align=center]
+          at ([yshift=0.75cm]current page.south west) {\thepage};
+  \end{tikzpicture}
+}
+
+\include{titlepage/titlepage}
+\include{Mahr als nur Spiel/Mehr_als_nur_ein_Spiel}
+\newpage
+\pagenumbering{arabic} %MÖCHTE DAS PAKET thumbs unbedingt haben?!
+
+\thumbsoverview{Daumenregister}
+\tableofcontents
+\newpage
+\input{Spiele zur Gruppeneinteilung/Spiele_zur_Gruppeneinteilung}
+\input{Kennenlernspiele/Kennenlernspiele}
+\input{Kreisspiele/Kreisspiele}
+\input{Singspiele/Singspiele}
+\input{Bewegungsspiele/Bewegungsspiele}
+\input{Geländespiele/Geländespiele}
+\input{Kooperations- Vertrauensübungen/Kooperations_Vertrauensübungen}
+\input{Rätzel/Rätzel}
+\input{Kartenspiele/Kartenspiele}
+\input{Impulse/Inpulse}
+\input{Gebete/Gebete}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Anhang%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{Anhang/Anhang}
+
+
+\end{document}
