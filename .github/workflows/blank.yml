@@ -18,15 +18,17 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: PDF
-          path: Jugendteam_Spielesammlung_A4.pdf
+          path: A4/Jugendteam_Spielesammlung_A4.pdf
         continue-on-error: true
       - name: Compile A5
         uses: xu-cheng/latex-action@v3
         with:
           root_file: Jugendteam_Spielesammlung_A5.tex
           orking_directory: ./A5
+          args: -pdf -file-line-error -interaction=nonstopmode
+        continue-on-error: true
       - name: Upload A5 PDF file
         uses: actions/upload-artifact@v4
         with:
           name: PDF
-          path: Jugendteam_Spielesammlung_A5.pdf
+          path: A4/Jugendteam_Spielesammlung_A5.pdf
