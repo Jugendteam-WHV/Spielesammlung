@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.28)  28 MAY 2025 12:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.28)  28 MAY 2025 14:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
+**./Jugendteam_Spielesammlung_A4.tex
+(Jugendteam_Spielesammlung_A4.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
 (C:\Users\neuma\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
@@ -889,11 +889,11 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \c@th@mblineb=\count368
 \c@FileLine=\count369
 \c@thumbsstop=\count370
- (main.aux (titlepage/titlepage.aux)
+ (Jugendteam_Spielesammlung_A4.aux
+(titlepage/titlepage.aux)
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 (babel)             Reported  on input line 10.
-
-(Mahr als nur Spiel/Mehr_als_nur_ein_Spiel.aux)
+ (Mahr als nur Spiel/Mehr_als_nur_ein_Spiel.aux)
 
 ! Package undolabl Error: Label `TableOfThumbs' shall be overridden 
 although it does not yet exist.
@@ -908,7 +908,7 @@ A label which does not exist cannot be overridden.
 
 \c@pagesLTS.arabic.1.local.cnt=\count371
 )
-\openout1 = `main.aux'.
+\openout1 = `Jugendteam_Spielesammlung_A4.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
 LaTeX Font Info:    ... okay on input line 78.
@@ -1011,9 +1011,9 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 Package hyperref Info: Link coloring OFF on input line 78.
 
-(main.out) (main.out)
+(Jugendteam_Spielesammlung_A4.out) (Jugendteam_Spielesammlung_A4.out)
 \@outlinefile=\write4
-\openout4 = `main.out'.
+\openout4 = `Jugendteam_Spielesammlung_A4.out'.
 
 \@instreamthumb=\read4
  
@@ -1120,16 +1120,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 
-Package undolabl Info: Label `TableOfThumbs' overridden on input line 118.
+Package undolabl Info: Label `TableOfThumbs' overridden on input line 117.
 
 
-Package thumbs Info: Processing line 1 to 11 of main.tmb.
+
+Package thumbs Info: Processing line 1 to 11 of Jugendteam_Spielesammlung_A4.tm
+b.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported  on input line 118.
+(babel)             Reported  on input line 117.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1137,17 +1139,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-THUMBS: Processing main.tmb line 1. Executing main.tmb line 1.
-THUMBS: Processing main.tmb line 2. Executing main.tmb line 2.
-THUMBS: Processing main.tmb line 3. Executing main.tmb line 3.
-THUMBS: Processing main.tmb line 4. Executing main.tmb line 4.
-THUMBS: Processing main.tmb line 5. Executing main.tmb line 5.
-THUMBS: Processing main.tmb line 6. Executing main.tmb line 6.
-THUMBS: Processing main.tmb line 7. Executing main.tmb line 7.
-THUMBS: Processing main.tmb line 8. Executing main.tmb line 8.
-THUMBS: Processing main.tmb line 9. Executing main.tmb line 9.
-THUMBS: Processing main.tmb line 10. Executing main.tmb line 10.
-THUMBS: Processing main.tmb line 11. Executing main.tmb line 11.
+THUMBS: Processing Jugendteam_Spielesammlung_A4.tmb line 1.
+Executing Jugendteam_Spielesammlung_A4.tmb line 1.
+THUMBS: Processing Jugendteam_Spielesammlung_A4.tmb line 2.
+Executing Jugendteam_Spielesammlung_A4.tmb line 2.
+THUMBS: Processing Jugendteam_Spielesammlung_A4.tmb line 3.
+Executing Jugendteam_Spielesammlung_A4.tmb line 3.
+THUMBS: Processing Jugendteam_Spielesammlung_A4.tmb line 4.
+Executing Jugendteam_Spielesammlung_A4.tmb line 4.
+THUMBS: Processing Jugendteam_Spielesammlung_A4.tmb line 5.
+Executing Jugendteam_Spielesammlung_A4.tmb line 5.
+THUMBS: Processing Jugendteam_Spielesammlung_A4.tmb line 6.
+Executing Jugendteam_Spielesammlung_A4.tmb line 6.
+THUMBS: Processing Jugendteam_Spielesammlung_A4.tmb line 7.
+Executing Jugendteam_Spielesammlung_A4.tmb line 7.
+THUMBS: Processing Jugendteam_Spielesammlung_A4.tmb line 8.
+Executing Jugendteam_Spielesammlung_A4.tmb line 8.
+THUMBS: Processing Jugendteam_Spielesammlung_A4.tmb line 9.
+Executing Jugendteam_Spielesammlung_A4.tmb line 9.
+THUMBS: Processing Jugendteam_Spielesammlung_A4.tmb line 10.
+Executing Jugendteam_Spielesammlung_A4.tmb line 10.
+THUMBS: Processing Jugendteam_Spielesammlung_A4.tmb line 11.
+Executing Jugendteam_Spielesammlung_A4.tmb line 11.
 [5
 
 
@@ -1165,7 +1178,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [6
 
-] (main.toc
+] (Jugendteam_Spielesammlung_A4.toc
 
 [7]
 
@@ -1187,7 +1200,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [9])
 \tf@toc=\write5
-\openout5 = `main.toc'.
+\openout5 = `Jugendteam_Spielesammlung_A4.toc'.
 
 
 
@@ -2156,12 +2169,12 @@ Overfull \hbox (7.08453pt too wide) in paragraph at lines 76--76
  []
 
 
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 97--97
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 95--95
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--115
+Underfull \hbox (badness 10000) in paragraph at lines 103--113
 
  []
 
@@ -2175,48 +2188,48 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [37]
-Underfull \hbox (badness 10000) in paragraph at lines 116--118
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
 
  []
 
 
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 124--124
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 122--122
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--143
+Underfull \hbox (badness 10000) in paragraph at lines 131--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--143
+Underfull \hbox (badness 10000) in paragraph at lines 131--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--145
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
 
-Overfull \hbox (9.75325pt too wide) in paragraph at lines 146--151
+Overfull \hbox (9.75325pt too wide) in paragraph at lines 144--149
 []\OT1/cmr/m/n/10.95 Es gibt zahl-lo-se Va-ri-an-ten der Be-we-gun-gen, die aus
 -gef[]uhrt wer-den k[]onnen. Hier wird nur ei-ne M[]oglichkeit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--151
+Underfull \hbox (badness 10000) in paragraph at lines 144--149
 
  []
 
 
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 158--158
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 156--156
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--170
+Underfull \hbox (badness 10000) in paragraph at lines 164--168
 
  []
 
@@ -2230,42 +2243,47 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [38]
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 176--176
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 174--174
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--187
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--194
+Underfull \hbox (badness 10000) in paragraph at lines 186--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--200
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--200
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
 
  []
 
 
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 206--206
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 204--204
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--219
+Underfull \hbox (badness 10000) in paragraph at lines 211--217
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--219
+Underfull \hbox (badness 10000) in paragraph at lines 211--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
 
  []
 
@@ -2280,17 +2298,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 222--223
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 226--228
+Underfull \hbox (badness 10000) in paragraph at lines 224--226
 
  []
 
@@ -2304,32 +2317,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [39]
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--241
+Underfull \hbox (badness 10000) in paragraph at lines 229--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--241
+Underfull \hbox (badness 10000) in paragraph at lines 229--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--241
+Underfull \hbox (badness 10000) in paragraph at lines 229--239
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 245--245
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 243--243
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--255
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
 
  []
 
@@ -2390,37 +2403,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [42]
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 68--68
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 67--67
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--81
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--81
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
 
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 86--86
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 85--85
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
 
  []
 
 
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 104--104
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 103--103
 [] 
  []
 
@@ -2434,42 +2447,42 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [43]
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
 
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 124--124
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 123--123
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--137
+Underfull \hbox (badness 10000) in paragraph at lines 133--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--137
+Underfull \hbox (badness 10000) in paragraph at lines 133--136
 
  []
 
 
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 143--143
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 142--142
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
@@ -2483,32 +2496,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [44]
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 161--161
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 160--160
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--176
+Underfull \hbox (badness 10000) in paragraph at lines 170--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--176
+Underfull \hbox (badness 10000) in paragraph at lines 170--175
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 183--183
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 182--182
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 200--200
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 199--199
 [] 
  []
 
@@ -2525,37 +2538,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [45]
-Underfull \hbox (badness 10000) in paragraph at lines 211--212
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 217--217
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 216--216
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--224
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 []|\OT1/cmr/m/n/10.95 F[]ur je-den Mit-spie-ler drei oder mehr
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--227
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 233--233
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 232--232
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 250--250
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 249--249
 [] 
  []
 
@@ -2572,37 +2585,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 258--260
+Underfull \hbox (badness 10000) in paragraph at lines 257--259
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 266--266
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 265--265
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--276
+Underfull \hbox (badness 10000) in paragraph at lines 273--275
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 282--282
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 281--281
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--292
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 297--297
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 296--296
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
 
  []
 
@@ -2616,42 +2629,42 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [47]
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 313--313
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 312--312
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--325
+Underfull \hbox (badness 10000) in paragraph at lines 321--324
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--325
+Underfull \hbox (badness 10000) in paragraph at lines 321--324
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 331--331
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 330--330
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--349
+Underfull \hbox (badness 10000) in paragraph at lines 346--348
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 354--354
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 353--353
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--363
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 369--369
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 368--368
 [] 
  []
 
@@ -2665,27 +2678,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [48]
-Underfull \hbox (badness 10000) in paragraph at lines 377--379
+Underfull \hbox (badness 10000) in paragraph at lines 376--378
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 385--385
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 384--384
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--395
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 401--401
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 400--400
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--412
+Underfull \hbox (badness 10000) in paragraph at lines 409--411
 
  []
 
@@ -2699,32 +2712,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [49]
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 418--418
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 417--417
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 433--433
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 432--432
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--443
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 449--449
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 448--448
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--459
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
 
  []
 
@@ -2872,22 +2885,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.68405pt}.
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
-
- []
-
-
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 141--141
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 140--140
 [] 
  []
 
 
-Underfull \hbox (badness 6876) in paragraph at lines 146--147
+Underfull \hbox (badness 6876) in paragraph at lines 145--146
 []|\OT1/cmr/m/n/10.95 20 Tisch-ten-nisb[]alle, Zet-tel und Stift, 30
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--152
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
 
  []
 
@@ -2901,17 +2909,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.68405pt}.
 
 [57]
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 171--171
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 170--170
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
 
 
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 184--184
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 183--183
 [] 
  []
 
@@ -2925,32 +2933,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.68405pt}.
 
 [58]
-Overfull \hbox (7.08453pt too wide) in paragraph at lines 198--198
+Overfull \hbox (7.08453pt too wide) in paragraph at lines 197--197
 [] 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 211--211
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 210--210
 [] 
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 216--217
+Underfull \hbox (badness 4832) in paragraph at lines 215--216
 \OT1/cmr/m/n/10.95 Far-ben (un-ter-schied-li-che Werte)-Flatterband
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--224
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--226
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
 
-Overfull \hbox (65.2943pt too wide) in paragraph at lines 227--228
+Overfull \hbox (65.2943pt too wide) in paragraph at lines 226--227
 []\OT1/cmr/m/n/10.95 Kameltreiber*innen: ha-ben die Auf-ga-be, Ka-mel-kar-ten a
 uf-zu-sam-meln und zum La-ger zu brin-gen.Wassertr[]ager*innen:
  []
@@ -2965,27 +2973,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.68405pt}.
 
 [59]
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 238--238
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 237--237
 [] 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 254--254
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 253--253
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--260
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
 []|\OT1/cmr/m/n/10.95 Schmuggelgut (zum Bei-spiel Mehlpaket)-
  []
 
 
-Underfull \hbox (badness 3240) in paragraph at lines 259--260
+Underfull \hbox (badness 3240) in paragraph at lines 258--259
 \OT1/cmr/m/n/10.95 Kennzeichnung f[]ur die Mann-schaf-ten (z.B.
  []
 
 
-Overfull \hbox (40.2308pt too wide) in paragraph at lines 267--268
+Overfull \hbox (40.2308pt too wide) in paragraph at lines 266--267
 []\OT1/cmr/m/n/10.95 Die Schmugg-ler ha-ben 30 Mi-nu-ten Zeit ih-re Schmug-gel-
 wa-re von ei-nem Start-punkt durch un[]ubersichtliches
  []
@@ -3000,12 +3008,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.68405pt}.
 
 [60]
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 283--283
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 282--282
 [] 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 297--297
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 296--296
 [] 
  []
 
@@ -3019,22 +3027,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.68405pt}.
 
 [61]
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 311--311
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 310--310
 [] 
  []
 
 
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 332--332
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 331--331
 [] 
  []
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 337--338
+Underfull \hbox (badness 3792) in paragraph at lines 336--337
 \OT1/cmr/m/n/10.95 blau, Thea-ter-schmin-ke in rot, gelb, gr[]un,
  []
 
 
-Overfull \hbox (3.15291pt too wide) in paragraph at lines 341--342
+Overfull \hbox (3.15291pt too wide) in paragraph at lines 340--341
 \OT1/cmr/m/n/10.95 (Be-treu-er, die Schieds-rich-ter sind), Kin-der als L[]aufe
 rSchlumpfine be-gr[]u^^Yt zu den diesj[]ahrigen Schlumpf-
  []
@@ -3049,12 +3057,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.68405pt}.
 
 [62]
-Overfull \hbox (16.5886pt too wide) in paragraph at lines 363--363
+Overfull \hbox (16.5886pt too wide) in paragraph at lines 362--362
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--375
+Underfull \hbox (badness 10000) in paragraph at lines 372--374
 
  []
 
@@ -3068,7 +3076,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.68405pt}.
 
 [63]
-Underfull \hbox (badness 10000) in paragraph at lines 395--396
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
 
  []
 
@@ -3403,9 +3411,7 @@ Overfull \hbox (7.08453pt too wide) in paragraph at lines 90--90
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
-
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -3417,6 +3423,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.68405pt}.
 
 [77]
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
 Overfull \hbox (7.08453pt too wide) in paragraph at lines 100--100
 [] 
  []
@@ -4413,7 +4424,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [104 <./Anhang/Mafia.png>]
 Package pageslts Info: enddocument/afterlastpage (AED): pageslts setting LastPa
-ge on input line 140.
+ge on input line 139.
 
 
 Package pagesLTS Warning: The \lastpageref{LastPage} link does not work
@@ -4423,7 +4434,7 @@ Package pagesLTS Warning: The \lastpageref{LastPage} link does not work
 
 \c@pagesLTS.arabic.1.local.count=\count378
 Package pageslts Info: enddocument/afterlastpage (AED): pageslts setting VeryLa
-stPage on input line 140.
+stPage on input line 139.
 
 Package pagesLTS Warning: The \lastpageref{VeryLastPage} link does not work
 (pagesLTS)                using hyperref with disabled option `pageanchor'.
@@ -4431,7 +4442,7 @@ Package pagesLTS Warning: The \lastpageref{VeryLastPage} link does not work
 (pagesLTS)                \lastpageref*{...} (not generating a link).
 
 Package pageslts Info: enddocument/afterlastpage (AED): pageslts setting LastPa
-ges on input line 140.
+ges on input line 139.
 
 Package pagesLTS Warning: The \lastpageref{pagesLTS.arabic.1} link does not wor
 k
@@ -4469,9 +4480,9 @@ Package pagesLTS Warning: The \lastpageref{LastPages} link does not work
 Package pageslts Info: Total number of pages is even.
 
 \tf@tmb=\write6
-\openout6 = `main.tmb'.
+\openout6 = `Jugendteam_Spielesammlung_A4.tmb'.
 
-(main.aux (titlepage/titlepage.aux)
+(Jugendteam_Spielesammlung_A4.aux (titlepage/titlepage.aux)
 (Mahr als nur Spiel/Mehr_als_nur_ein_Spiel.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -4482,19 +4493,21 @@ L3 programming layer <2025-04-29>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.72pt have occurred.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
+Package rerunfilecheck Info: File `Jugendteam_Spielesammlung_A4.out' has not ch
+anged.
 (rerunfilecheck)             Checksum: C27586CE301A19FA3DF62ABB0AB44317;24667.
-Package rerunfilecheck Info: File `main.tmb' has not changed.
+Package rerunfilecheck Info: File `Jugendteam_Spielesammlung_A4.tmb' has not ch
+anged.
 (rerunfilecheck)             Checksum: CC54846023BD6E0900AD8FBD882A1346;1009.
  ) 
 Here is how much of TeX's memory you used:
  26081 strings out of 469923
- 492994 string characters out of 5469170
- 986745 words of memory out of 5000000
+ 493666 string characters out of 5469170
+ 986769 words of memory out of 5000000
  52140 multiletter control sequences out of 15000+600000
  636354 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 88i,18n,92p,3101b,1054s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,18n,92p,3125b,1054s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\neuma\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Users/neuma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/neuma/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -4507,7 +4520,7 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
 s/neuma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
 <C:/Users/neuma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 ti10.pfb>
-Output written on main.pdf (104 pages, 1186743 bytes).
+Output written on Jugendteam_Spielesammlung_A4.pdf (104 pages, 1186757 bytes).
 PDF statistics:
  1389 PDF objects out of 1440 (max. 8388607)
  234 named destinations out of 1000 (max. 500000)

@@ -40,8 +40,8 @@
 
 
 
-\newcommand{\Section}[1]{
-  \refstepcounter{section}
+\newcommand{\Section}[1]{%
+  \refstepcounter{section}%
   \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}%
   \vspace{2ex}%
   \noindent
@@ -53,17 +53,17 @@
           fill=bbe,
           text=white,
           align=center,
-          font=\fontsize{18pt}{22pt}\selectfont\bfseries\sffamily]
+          font=\fontsize{18pt}{22pt}\selectfont\bfseries\sffamily] % nur hier größerer Text
           (section) at (0,0) {\thesection};
     \node[anchor=north west,
           text=bbe,
           text width=\dimexpr\linewidth - 7ex\relax,
           align=left,
-          font=\fontsize{18}{22pt}\selectfont\sffamily] 
+          font=\fontsize{18pt}{22pt}\selectfont\sffamily] % nur hier größerer Text
           (title) at (section.north east) {#1};
     \draw[very thick, draw=bbe] (section.north west) -- ++(\linewidth,0);
-  \end{tikzpicture}
-  \par\vspace{1ex}
+  \end{tikzpicture}%
+  \par\vspace{1ex}%
 }
 
 
@@ -109,7 +109,6 @@
           at ([yshift=0.75cm]current page.south west) {\thepage};
   \end{tikzpicture}
 }
-
 \include{titlepage/titlepage}
 \include{Mahr als nur Spiel/Mehr_als_nur_ein_Spiel}
 \newpage
