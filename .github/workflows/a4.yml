@@ -20,4 +20,8 @@ jobs:
           name: PDF
           path: A4/Jugendteam_Spielesammlung_A4.pdf
         continue-on-error: true
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: A4/Jugendteam_Spielesammlung_A4.pdf
 
