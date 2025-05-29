@@ -27,6 +27,6 @@ jobs:
           repository: Jugendteam-WHV/Spielesammlung
           # note you'll typically need to create a personal access token
           # with permissions to create releases in the other repo
-          token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+          token: ${{ secrets.Actions }}
           files: A4/Jugendteam_Spielesammlung_A4.pdf
 
