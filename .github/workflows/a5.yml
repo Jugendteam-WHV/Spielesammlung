@@ -22,5 +22,6 @@ jobs:
         continue-on-error: true
       - name: Release
         uses: softprops/action-gh-release@v2
+        if: github.ref_type == 'tag'
         with:
           files: A5/Jugendteam_Spielesammlung_A5.pdf
