@@ -1,4 +1,4 @@
-\documentclass[9pt,ngerman]{book}
+\documentclass[8pt,ngerman]{book}
 \usepackage[paperwidth=12.5cm, paperheight=19.0cm,left=1cm,right=1cm,top=2cm]{geometry} % Groesse der Seitenraender definieren
 \usepackage{graphicx} 
 \usepackage{ltablex}
@@ -21,8 +21,11 @@
 \usepackage{blindtext}
 \usepackage[pageanchor=false]{hyperref} % muss vor thumbs geladen sein
 \usepackage[width={15mm},distance={6mm}]{thumbs}
-
 \usepackage{tikz}
+\usepackage{imakeidx}
+\usepackage{multicol}
+\makeindex[title=Alle Spiele, columns=2, program=xindy, options=-L german -C utf8]
+
 
 
 
@@ -44,6 +47,7 @@
 
 
 \newcommand{\Section}[1]{%
+	\index{#1}
 	\refstepcounter{section}%
 	\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}%
 	\vspace{2ex}%
@@ -120,11 +124,11 @@
 	\newpage
 	%\thumbsoverview{Daumenregister}
 	\tableofcontents
-<<<<<<< Updated upstream
+
 	%\newpage
-=======
+
 	\newpage
->>>>>>> Stashed changes
+
 	\input{Spiele zur Gruppeneinteilung/Spiele_zur_Gruppeneinteilung}
 	\input{Kennenlernspiele/Kennenlernspiele}
 	\input{Kreisspiele/Kreisspiele}
@@ -143,5 +147,7 @@
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	%\input{Anhang/Anhang}
 	
+	\newpage
+	\printindex
 	
 \end{document}

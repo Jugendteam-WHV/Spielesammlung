@@ -21,9 +21,10 @@
 \usepackage{blindtext}
 \usepackage[pageanchor=false]{hyperref} % muss vor thumbs geladen sein
 \usepackage[width={15mm},distance={6mm}]{thumbs}
-
+\usepackage{imakeidx}
+\usepackage{multicol}
+\makeindex[title=Alle Spiele, columns=2, program=xindy, options=-L german -C utf8]
 \usepackage{tikz}
-
 
 
 
@@ -44,6 +45,7 @@
 
 
 \newcommand{\Section}[1]{%
+	\index{#1}
 	\refstepcounter{section}%
 	\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}%
 	\vspace{2ex}%
@@ -67,6 +69,7 @@
 		\draw[very thick, draw=bbe] (section.north west) -- ++(\linewidth,0);
 	\end{tikzpicture}%
 	\par\vspace{1ex}%
+	
 }
 
 
@@ -120,11 +123,9 @@
 	\newpage
 	%\thumbsoverview{Daumenregister}
 	\tableofcontents
-<<<<<<< Updated upstream
-	%\newpage
-=======
+	%\newpages
 	\newpage
->>>>>>> Stashed changes
+
 	\input{Spiele zur Gruppeneinteilung/Spiele_zur_Gruppeneinteilung}
 	\input{Kennenlernspiele/Kennenlernspiele}
 	\input{Kreisspiele/Kreisspiele}
@@ -137,11 +138,15 @@
 	\input{Impulse/Inpulse}
 	\input{Gebete/Gebete}
 	
+		
 	
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Anhang%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	\input{Anhang/Anhang}
 	
-	
+	\newpage
+	%\renewcommand{\indexname}{Stichwortverzeichnis}
+	%\addcontentsline{toc}{section}{Stichwortverzeichnis}
+	\printindex
 \end{document}
