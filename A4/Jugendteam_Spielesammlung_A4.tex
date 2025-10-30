@@ -23,8 +23,9 @@
 \usepackage[width={15mm},distance={6mm}]{thumbs}
 \usepackage{imakeidx}
 \usepackage{multicol}
-\makeindex[title=Alle Spiele, columns=2, program=xindy, options=-L german -C utf8]
+\makeindex[title=Schlagwortindex, columns=2, program=xindy, options= -s index_style.is -L german -C utf8 t, intoc]
 \usepackage{tikz}
+
 
 
 
@@ -43,8 +44,8 @@
 %{0pt}
 
 
-
 \newcommand{\Section}[1]{%
+	\edef\buchstabe{\MakeUppercase{\expandafter\@car#1\@nil}}
 	\index{#1}
 	\refstepcounter{section}%
 	\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}%
