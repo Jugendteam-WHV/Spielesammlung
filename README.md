@@ -8,6 +8,9 @@ Zu Kompilieren der A4 Version der Spielesammlung wird über ein Terminal der Ord
 ~~~bash
 pdflatex.exe -synctex=1 -interaction=nonstopmode Jugendteam_Spielesammlung_A4.tex
 makeindex Jugendteam_Spielesammlung_A4.idx -s indexStyle.ist
+~~~
+Ändere in der Datei Jugendteam_Spielesammlung_A4.ind die Zeilen 295 und 4. In Zeile 4 wird Symbols durch 60 ersetzt und in Zeile 295 das Symbol   durch Ü ersetzt.
+~~~bash
 pdflatex.exe -synctex=1 -interaction=nonstopmode Jugendteam_Spielesammlung_A4.tex
  ~~~
 
@@ -19,6 +22,9 @@ Zu Kompilieren der A5 Version der Spielesammlung wird über ein Terminal der Ord
 ~~~bash
 pdflatex.exe -synctex=1 -interaction=nonstopmode Jugendteam_Spielesammlung_A5.tex
 makeindex Jugendteam_Spielesammlung_A5.idx -s indexStyle.ist
+~~~
+Ändere in der Datei Jugendteam_Spielesammlung_A5.ind die Zeilen 295 und 4. In Zeile 4 wird Symbols durch 60 ersetzt und in Zeile 295 das Symbol   durch Ü ersetzt.
+~~~bash
 pdflatex.exe -synctex=1 -interaction=nonstopmode Jugendteam_Spielesammlung_A5.tex
  ~~~
 
@@ -27,5 +33,8 @@ Zu Kompilieren der Tschenbuch Version der Spielesammlung wird über ein Terminal
 ~~~bash
 pdflatex.exe -synctex=1 -interaction=nonstopmode Jugendteam_Spielesammlung_Taschenbuch.tex
 makeindex Jugendteam_Spielesammlung_Taschenbuch.idx -s indexStyle.ist
+~~~
+Ändere in der Datei Jugendteam_Spielesammlung_Taschenbuch.ind die Zeilen 295 und 4. In Zeile 4 wird Symbols durch 60 ersetzt und in Zeile 295 das Symbol   durch Ü ersetzt.
+~~~bash
 pdflatex.exe -synctex=1 -interaction=nonstopmode Jugendteam_Spielesammlung_Taschenbuch.tex
  ~~~
