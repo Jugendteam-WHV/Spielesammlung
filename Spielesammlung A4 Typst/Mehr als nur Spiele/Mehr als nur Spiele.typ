@@ -1,0 +1,73 @@
+#set heading(numbering: none, outlined: false)
+#set page(header: none)
+== Bedeutung von Spiele
+Spiel ist nicht gleich Spiel. Es gibt verschiedene Arten von Spielen, die jeweils verschiedene Ziele 
+verfolgen. Als Gruppenleiter muss man sich im Vorfeld der Beispielauswahl überlegen, was mit dem 
+Spiel bezweckt werden soll. Beispielsweise wäre ein Kennenlernspiel nicht das richtige, um 
+gemeinsam in der Gruppe mal „Dampf“ abzulassen. Folgende Arten von Spielen können 
+unterschiedenen werden:
+#list(
+  [ Kennenlernspiele: Die Anfangssituation einer Gruppe gestalten, sich gegenseitig 
+(besser) kennen lernen und Vertrauen zu den anderen finden. ],
+[Spiele zur Gruppeneinteilung: Kreativ, sowie abwechslungsreich Gruppen bilden und 
+dabei „in Fahrt“ kommen.],
+[Kreisspiele: Die perfekten Spiele für das Warming-Up der Gruppenstunde oder für 
+die actionreiche Unterbrechung der Einheit.],
+[Bewegungsspiele: Nicht rumsitzen, sondern zusammen im Gruppenraum oder 
+draußen aktiv werden.],
+[Geländespiele: Auf dem Bolzplatz oder im Wald mit der ganzen Gruppe ein kleines Abenteuer erleben.],
+[Spiele für die Abendrunde: Gemeinsam in der Gruppe den Tag ausklingen lassen – egal ob leise oder laut.]
+
+)
+== Was muss beim Spielen beachtet werden?
+So vielfältig die Auswahl an Spielen ist, so vielfältig sind auch die Voraussetzungen, die jeweils 
+erfüllt sein müssen. Vor jedem Spiel sollten daher folgende Fragen beantwortet werden:
+- Was möchte ich mit dem Spiel bezwecken?
+- Passt das Spiel zum Alter und zur derzeitigen Phase der Gruppe?
+- Welche (Sicherheits-)Risiken gibt es zu beachten?
+- Welches Material brauche ich für das Spiel und was muss ich im Vorfeld vorbereiten? Wenn im Rahmen einer Spielekette Spiele aneinander gereiht werden, ist auf die richtige Anordnung zu achten. So sollten am Anfang leichte und gut verständliche Spiele stehen, die alle Teilnehmer verstehen und ohne Probleme mitspielen können.
+
+Im Folgenden können die Spiele dann bezüglich Schwierigkeitsgrad, Komplexität, Teamarbeit und 
+Körperkontakt stetig zunehmen, so dass das letzte Spiel der Gruppe als Team am meisten 
+abverlangt. Zum einen wird durch eine solche Anordnung Spannung aufgebaut und Abwechslung 
+erreicht. Zum anderen hilft dieser Aufbau aber auch den Gruppenmitgliedern, sich besser auf die Spielekette und die Gruppe einzulassen.
+== Spielerklärung
+Es gibt sicherlich in einigen Gruppen Spiele, die wie von selbst laufen, da sie im Laufe der Zeit zu 
+„Klassikern“ geworden sind, die keiner Erklärung mehr bedürfen. Im Normalfall steht vor einem 
+Spiel jedoch eine Spielerklärung durch den Gruppenleiter. 
+Diese Erklärung kann natürlich ganz ohne irgendwelche Ausschmückungen erfolgen, 
+beispielsweise so:
+#set quote(block: true)
+#quote[
+  „Jetzt spielen wir das Spiel ‚Kissenrennen‘. Zählt mal bitte Teams ab: 1-2-1-2-1-2 usw. Alle, die in Mannschaft 1 sind, gehören zum blauen Kissen. Alle aus Team 2 gehören zum roten. Wenn ich gleich ‚los‘ sage, gebt ihr jeweils euer Kissen an euern linken Teamnachbarn weiter. Wenn ein Kissen das andere überholt, habt ihr gewonnen! Habt ihr noch Fragen? Ok, dann auf die Plätze, fertig, los!“
+]
+== Spielepädagogik
+Spannender wird es allerdings, wenn zu den Regeln eine Geschichte erzählt wird, die das Spiel in einen (erfundenen) Zusammenhang setzt und damit die Mitspieler motiviert:
+#quote[
+  "Wir befinden uns auf der alt-ehrwürdigen Pferderennbahn des Jugendhofes in 
+Vechta. Hier werdet ihr in Kürze Zeugen eines einmaligen Spektakels des 
+Pferdesports: Es kommt zum lang ersehnten Schlagabtausch der Spitzenrennpferde 
+Horst und Wendy! Applaus bitte (Teilnehmer jubeln)! Horst (blaues Kissen 
+hochhalten), ein alter, erfahrener Hengst, macht heute vielleicht das letzte Rennen 
+seiner Karriere! Kann er es mit einem Sieg abschließen? Ihm gegenüber steht Wendy 
+(rotes Kissen hochhalten), eine zarte Stute im bestem Rennalter, die bisher noch kein 
+Turnier gewinnen konnte, aber hier vielleicht vor ihrem ersten Erfolg steht. Bevor 
+das Rennen beginnt, müssen wir die Fanlager bestimmen: Horst-WendyHorst Wendy-Horst-Wendy usw. (abzählen). Heute ist es Aufgabe der Fans, also euch, euer 
+jeweiliges Pferd zum Sieg zu verhelfen! Dazu sollt ihr es nicht nur anfeuern, sondern 
+auch antreiben…“
+]
+Bei der Wahl der Ausschmückungen ist immer darauf zu achten, dass diese für die jeweilige 
+Gruppe passend sind. Eine Gruppe 15-jähriger Jungen freut sich beispielsweise in der Regel nicht 
+darüber, in „das Land der Feen“ entführt zu werden. \
+
+Die Art und Weise, wie man einzelne Spiele motivierend erklärt, gilt (besonders) auch für 
+Spieleketten. Anstatt einzelne Spiele isoliert aneinander zu hängen, könnten sie beispielweise Stationen einer Safari durch den Dschungel sein, die man gemeinsam unternimmt. Hierbei stellen 
+sich am Anfang viele Fragen, die die Teilnehmer in den Bann der Geschichte ziehen:
+- Wo genau findet die Safari statt? Wie sieht es dort aus (evtl. Requisiten verwenden)?
+- In welcher Zeit findet die Safari statt? Was ist besonders für die Zeit?
+- Welche Rollen haben die Teilnehmer auf der Safari und welche der Gruppenleiter?
+- Was ist der Grund oder das Ziel der Safari? 
+- Kennen die Teilnehmer Grund oder Ziel oder kommen sie erst während der Safari zu einer Erkenntnis?
+Der Kreativität des Gruppenleiters sind hier keine Grenzen gesetzt, solange die jeweilige 
+Geschichte für die Zielgruppe passend ist. Sofern die Spielekette in einem zeitlich begrenzten 
+Rahmen stattfindet (z.B. in einer Gruppenstunde), muss darauf geachtet werden, dass das Ziel der Geschichte erreicht wird. Daher lieber einen variablen Mittelteil einplanen, der bei Zeitknappheit gekürzt werden kann.

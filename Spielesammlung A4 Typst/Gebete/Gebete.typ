@@ -1,0 +1,173 @@
+
+#import "../template.typ": kapitel_seite
+#kapitel_seite("Gebete", image("../Bilder Kapitel/Gebete.png"))
+
+== Gebete am Morgen
+#set align(center)
+*Lieber* Gott, jeden Tag sind wir mit vielen Kindern in unserer Gruppe zusammen.\
+Am Anfang kannten wir uns kaum, aber jetzt sind wir richtige Freunde geworden.\
+Freunde spielen miteinander, Freunde helfen sich auch, Freunde teilen miteinander, Freunde sind gut zueinander. Hilf uns, dass wir immer Freunde bleiben können.\ \
+Amen
+\ \ \ \
+*Wie* fröhlich bin ich aufgewacht,\
+hab gut geschlafen die ganze Nacht.\
+Hab Dank im Himmel, du Vater mein,\
+dass du hast wollen bei mir sein.\
+Bleib du bei mir auch diesen Tag,\
+dass mir kein Leid geschehen mag.\ \
+Amen
+\ \ \ \
+*Guter* Gott, ein neuer Tag fängt an.  Ich möchte tun, was du willst.\  Ich möchte mit meinen Freunden ohne Streit spielen.\ Ich möchte, dass viele Menschen nett zueinander sind.\  Hilf mir, lieber Gott, gut zu sein!\ \
+Amen
+\ \ \ \
+*Lieber* Gott, ich danke dir für den neuen Tag.\
+Ich bin gesund aufgewacht.\
+Lass mich heute viel Freude mit\ 
+-meinen Freunden  \
+-meiner Freizeit\
+-meiner Gruppe haben.\
+Hilf mir, dass ich mich mit allen, die ich treffe, gut vertrage!\
+Bleibe bei mir und beschütze mich!\
+Danke schön, lieber Gott! \ \
+Amen.
+\ \ \ \
+#pagebreak()
+*Lieber* Gott, lass mich heute froh gelaunt und glücklich sein und leuchte du mit deiner Freude mitten in mein Herz hinein! \ \
+Amen.
+\ \ \ \
+*Guten* Morgen lieber Gott, gib uns heute unser Brot.\
+Lass uns lachen und nicht weinen; Lasse deine Sonne scheinen –bis in unser Herz hinein. Lass uns immer fröhlich sein. \ \
+Amen.
+#set align(left)
+== Gebete am Abend
+#set align(center)
+*Herr*, bleibe bei uns, denn es will Abend werden und der Tag hat sich geneigt!\ Du bist mein Trost, wenn Träume mich erschrecken und ängstigen.\  Sei besonders jenen nahe, die in dieser Nacht deine Hilfe brauchen:\ die Einsamen,\ die Verzweifelten,\ die Kranken,\ die Sterbenden.\  Herr, bleibe bei uns,in dieser Nacht, in Zeit und Ewigkeit. \ \
+Amen.
+\ \ \ \ 
+*Herr*, mein Gott, ich danke Dir für diesen Tag.\
+Alles Schöne, Erfreuliche und Gute hast Du mir geschenkt, ohne dass ich es wirklich verdient hätte.\
+Vielen Dank.\
+Nun liegt vor mir die Nacht und dahinter derneue Tag.\
+Lass mich gut ruhen, neue Kraft sammeln um morgen ausgeschlafen in den neuen Tag zu starten.\ \
+Amen.
+\ \ \ \ 
+#pagebreak()
+*Wenn* ich abends zu Bette geh,\
+14 Englein bei mir steh n.\
+Zwei zu meiner rechten Seite,\
+Zwei zu meiner linken Seite,  \
+Zwei zu meinemHaupte, \
+Zwei zu meinen Füßen,\
+Zwei die mich decken,\
+Zwei die mich wecken,\
+Zwei die mich führen in das himmlische Paradies.\ \
+Amen.
+\ \ \ \
+*Herr*, der Tag geht zu Ende.\
+Ich blicke zurück auf die Menschen in den Straßen, auf die Menschen in den\
+Zimmern, auf die Menschen an den Tischen.\
+Ich habe mit ihnen gesprochen, habe gelächelt.\
+Ich habe mit ihnen gearbeitet und gegessen. \
+Ich bin ihnen begegnet und wohl auch auf die Nerven gegangen.\
+Ich habe sie gereizt, getröstet, geliebt. \
+Das alles, Herr, habe ich Menschen getan; das alles, Herr, habe ich dir getan. \
+Vergib mir, tröste mich, bleibe bei mir.\ \
+Amen.
+#set align(left)
+== Tischgebete
+#set align(center)
+*Wenn*  wir  beieinander sitzen,\  nicht  mehr  durch  das  Zimmer  flitzen\  schnuppern  wir  die Frühstücks-/ Mittags-/ Abendbrotzeit\ und die Teller stehen bereit.\ Wer noch laut war,\ ist jetzt still, weil ein jeder essen will.\ \
+Amen.
+\ \ \ \
+*Wir* danken all denen, die den Tisch gedeckt, \
+und wir danken Gott, der hinter all dem steckt.\
+Du bist ein Gott, dem man danken kann, und jetzt fangen wir zu essen an.\ \
+Amen.
+#pagebreak()
+*Jedes* Tierlein hat zu essen, jedes Blümlein trinkt von dir.\
+ Hast auch mich heut nicht vergessen, lieber Gott, ich danke dir.\ \
+Amen.
+\ \ \ \
+*Herr* Jesus Christus, Du hast mit deinen Jüngern gegessen und an vielen Tischen gesessen. \
+Du hast dich auch hier und jetzt unsichtbar zu uns gesetzt.\
+Dankbar nehmen wir die Gaben von dir an.\
+Segne das zubereitete Essen, das du uns aus Liebe immer wieder schenkst.\
+Dir sei Dank in Ewigkeit.\ \
+Amen.
+\ \ \ \
+*Guter* Gott, wir sitzen am gedeckten Tisch. Du sorgst dich um uns, begleitest unsere Tischgemeinschaft. Nicht nur an diesem Morgen,sondern an jedem Tag. Dafür möchten wir dir danken.\ \
+Amen.
+\ \ \ \
+*Guter* Gott, durch deine Güte leben wir, und was wir haben, kommt von dir. Drum lass uns auch an andre denken, von deinen Gaben weiterschenken. Gott, lass uns dankbar essen und trinken, damit wir Kraft haben, Gutes zu tun.\ \
+Amen.
+\ \ \ \
+*Du* hast uns als Menschen geschaffen, damit wir einander helfen im Leben.  Du hast Nahrung geschaffen, um uns dadurch Energie zu geben.   Für Deine Gegenwart an diesen Morgen, für allen Segen, offen und verborgen, für diese Speise sei Dir Lob und Preis.\ \
+Amen.
+#pagebreak()
+*Du* gibst uns, Herr, durch Speis und Trank Gesundheit, Kraft und Leben.  So nehmen wir mit Lob und Dank, das, was du jetzt gegeben. \ \
+Amen.
+#set align(left)
+== Persönliche Gebete
+#set align(center)
+*Freunde* und Freundinnen leben miteinander und füreinander.\  Sie  freuen  sich  aneinander  und  helfen  sich  gegenseitig.\  Ein  treuer  Freund,  eine  treue Freundin, ist mehr wert als Gold und Silber.\ \
+Wahre  Freundschaft  ist  unbezahlbar.  Jesus,\  der  beste  Freund  aller  Menschen,  ist  uns immer treu. \
+Hilf mir, Gott, immer ein guter Freund zu sein.\ \
+Amen.
+\ \ \ \
+*Ich* danke dir, Gott, dass ich Freunde habe.\ Ich danke dir für das Spiel, den Spaß und die Feste.\ Ich danke dir für meinen besten Freund.\ Ich will auch ein guter Freund sein. \ \
+Amen.
+ \ \ \ \
+*Danke*\
+für die Freunde die ich habe, \
+sie schenken mir Vertrauen, \
+geben mir Kraft und Zuversicht. \ \
+Amen.
+\ \ \ \
+*Gütiger* Gott, ich danke dir, dass ich Freunde habe.\
+Wir können miteinander sprechen und unsere Probleme gemeinsam lösen. \ \
+Amen.
+
+#pagebreak()
+*Manche* Menschen wissen nicht, wie wichtig es ist, dass sie einfach da sind. \
+Manche Menschen wissen nicht, wie gut es ist, sie nur zu sehen. \
+Manche Menschen wissen nicht, wie tröstlich ihr gütiges Lächeln wirkt. \
+Manche Menschen wissen nicht, wie viel ärmer wir ohne sie wären. \
+Manche Menschen wissen nicht, dass sie ein Geschenk des Himmels sind.\ \
+Sie wüssten es, würden wir es ihnen sagen.\
+Hilf uns Gott, diesen Menschen zu zeigen, wie wichtig sie sind.\ \
+Amen.
+\ \ \ \
+*Gütiger* Gott, ich danke dir, dass ich Freunde habe.\
+Wir können miteinander sprechen und unsere Probleme gemeinsam lösen.\ \
+Amen
+\ \ \ \
+*Groß* und stark sein, schön, cool und sexy, was zu sagen haben, das ist in. Aber wenn ich mich im Spiegel sehe, komme ich mir ganz klein vor. Ich bin nicht so toll, wie ich es so gern wäre.\ \
+Ich stehe nicht in der Mitte, aus mir wird kaum was Großes werden, was soll ich nur machen, nichts gelingt mir. \ \
+Und wenn die kleinen Schritte richtig wären, die kleinen Wege zum Ziel führen, die »kleinen« Menschen nach deinem Willen sind? \ \
+Gott der Armen und Kleinen, lass mich erkennen, dass nicht Größe und Macht und Ansehen entscheiden, sondern der Mut zum Leben.\ \
+Amen.
+#pagebreak()
+*Meine* Zunge kann gut schmecken,\
+Bonbons lutschen und Eis schlecken, \
+und die Nase riecht daran.\
+Danke Gott, dass ich das kann.\ \
+Meine Ohren können hören,\
+ auch Geräusche, die mich stören,\
+ und die Augen staunen dann.\
+ Danke Gott, dass ich das kann.\ \
+Meine Hände können fassen,\
+und berühren Teller, Tassen\
+und die Hände teilen dann.\
+Danke Gott, dass ich das kann.\ \
+Amen.
+\ \ \ \
+*Ich* bin ich.\
+Mich gibt es nur einmal auf der ganzen Welt:\
+mein Gesicht, meine Haare, meine Au gen, meine Arme und meine Hände, mein\
+Bauch und mein Rücken,  meine Beine und meine Füße,  meine Stimme, meine\
+Ohren,  meine Gedanken und meine Gefühle.  Gott, Du hast mich bei meinem\
+Namen gerufen.\
+So nimm mich, wie ich bin, \
+und lass alle Menschen, denen ich begegne, so mit mir umgehen, wie Du es mit\
+mir tust. \ \
+Amen.
