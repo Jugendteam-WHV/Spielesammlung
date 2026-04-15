@@ -105,7 +105,12 @@ Amen.
 Amen.
 #pagebreak()
 *Du* gibst uns, Herr, durch Speis und Trank Gesundheit, Kraft und Leben.  So nehmen wir mit Lob und Dank, das, was du jetzt gegeben. \ \
-Amen.
+Amen. \ \ \ \
+
+*Lieber* Gott, mach doch,\
+ daß die Vitamine in den Pudding kommen,\ 
+ die sonst im Spinat sind! \ \
+ Amen
 #set align(left)
 == Persönliche Gebete
 #set align(center)
