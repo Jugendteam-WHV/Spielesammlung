@@ -2,7 +2,7 @@
   "name": "Typst Dev Environment",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
 
-  "postCreateCommand": "curl -fsSL https://typst.community/typst-install/install.sh | sh && sudo apt-get update && sudo apt-get install -y fonts-noto",
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y fonts-noto fonts-noto-cjk && fc-cache -fv && curl -fsSL https://typst.community/typst-install/install.sh | sh",
 
   "customizations": {
     "vscode": {
