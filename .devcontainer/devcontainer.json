@@ -1,0 +1,15 @@
+{
+  "name": "Typst Dev Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y fonts-noto fonts-noto-cjk && fc-cache -fv && curl -fsSL https://typst.community/typst-install/install.sh | sh",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "myriad-dreamin.tinymist",
+        "tamasfe.even-better-toml"
+      ]
+    }
+  }
+}
