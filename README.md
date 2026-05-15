@@ -55,7 +55,7 @@ PDF erzeugen:
 typst compile --font-path /fonts Spielesamlung_A4.typ paper.pdf
 ```
 
-## Live Preview
+#### Live Preview
 
 Automatisches Neurendern bei Änderungen:
 
@@ -72,7 +72,7 @@ PDF erzeugen:
 typst compile --font-path fonts Spielesamlung_A4.typ paper.pdf
 ```
 
-## Live Preview
+#### Live Preview
 
 Automatisches Neurendern bei Änderungen:
 
