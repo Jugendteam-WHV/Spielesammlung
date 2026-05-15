@@ -372,4 +372,8 @@ Kennzeichnung der gekauften Gebäude:
 
 Lila Wolle für die Kirche  
 
-Grüne Wolle für den Jägerstand  
+Grüne Wolle für den Jägerstand 
+
+
+== Die Siedler von Catan
+#info(groesse: "ab 20", alter: "10", material: "Material- und ")
