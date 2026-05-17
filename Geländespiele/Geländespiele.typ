@@ -376,4 +376,7 @@ Grüne Wolle für den Jägerstand
 
 
 == Die Siedler von Catan
-#info(groesse: "ab 20", alter: "10", material: "Material- und ")
+#info(groesse: "ab 20", alter: "10", material: "Material- und Bauplankarten")
+Je nach Anzahl der Kinder gibt es 5 bis 8 Gruppen. Das Ziel der Gruppen ist es möglichst viele Punkte zu sammeln. Punkte können die Gruppen Sammeln, indem sie Straßen, Hauser und Städte bauen.\ \
+Jedes Kinder der Gruppe bekommt von Zentrallen Bauamt ein Bauplan. Auf diesen Staht welche Rohstoffe sie brauchen, um eine Straße, ein Haus oder eine Stadt zu bauen und wie viele Punkte sie dafür bekommen. Wenn ein kind die nötigen Rohstoffe gesamlet hat kommt es zurück zum Bauamt und gibt diese ab. Die gruppe bekommt Punkte und das Kind bekommt einen neuen Bauplan.\ \
+Die Rohstoffe werden von Betruern verteilt die im Gelände verteilt sind.  Es gibt auch Räuber, der den Kindern die Rohstoffe abnehmen kann. Wenn ein Kind getickt wird, muss es stehen bleiben und der Räuber darf ihm einen Rohstoff abnehmen.
