@@ -66,7 +66,7 @@
   if logo != none {
     align(right, image(logo, width: 26%))
   }
-  align(center, image("Bilder Kapitel/logo.png", width: 100%))
+  align(center, image("Bilder Kapitel/Jugendteam und Haven.jpg", width: 100%))
   v(9.6fr)
 
   text(4em, weight: 700, title)
