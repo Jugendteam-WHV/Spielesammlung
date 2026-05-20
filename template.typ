@@ -56,7 +56,7 @@
     }
   }
   )
-  set text(font: "Noto Sans", lang: "de", ligatures: true)
+  set text(font: ("Noto Sans"), lang: "de", ligatures: true)
   set heading(numbering: "1.1")
 
   // Title page.
