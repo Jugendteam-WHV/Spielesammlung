@@ -170,6 +170,8 @@ Ein Wollknäuel wird gehalten. Die erste Person hält den Faden in der Hand und 
 )
 Jedes Gruppenmitglied macht zu verschiedenen Eigenschaften (Hobby, Schule/Beruf, Freund/Freundin, Urlaub, Erlebnis, …) je eine Aussage über sich. Eine Aussage ist falsch, die anderen stimmen. In der gemeinsamen Vorstellungsrunde stellt sich jeder vor und die anderen müssen erraten, welche die falsche Aussage ist.
 
+#pagebreak()
+
 == Vorstellen mit Zettel ziehen
 #info(
   groesse: [6-30 Spieler\*innen],
@@ -202,6 +204,7 @@ Alle stehen im Kreis. Der Spielleiter sagt: "Denke dir für dich 5 Personen, zu 
 )
 Es bilden sich kleine Gruppe, je nach TN Zahl.  Auf der einen Seite befindet sich Kreppband und Eddings, auf der anderen Seite die TN. Die TN müssen nacheinander zu dem Krepband rennen und sich ein Namensschild machen, dann den nächsten aus der Gruppe abklatschen. Die Gruppe, die zuerst fertig ist, gewinnt.
 
+#pagebreak()
 == Geheimcode
 #info(
   groesse: [6-30 Spieler\*innen],

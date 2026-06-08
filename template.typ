@@ -19,7 +19,7 @@
       move(dx: 0cm,
       align(left, box(fill: black, inset: (x: 6pt, y: 5pt), height: 2.0em, width: 4.0em)[
         #align(center,
-        text(fill: white, weight: "bold", size: 1.2em)[
+        text(fill: white, weight: "extrabold", size: 1.3em)[
           #str(page_num)
         ])
       ]))
@@ -27,7 +27,7 @@
       move(dx: 17cm, 
       align(right, box(fill: black, inset: (x: 0.0pt, y: 5pt), height: 2.0em, width: 4.0em)[
         #align(center,
-        text(fill: white, weight: "bold", size: 1.2em)[
+        text(fill: white, weight: "bold", size: 1.3em)[
           #str(page_num)
         ])
       ]))

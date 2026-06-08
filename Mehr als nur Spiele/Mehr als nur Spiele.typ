@@ -52,7 +52,7 @@ hochhalten), ein alter, erfahrener Hengst, macht heute vielleicht das letzte Ren
 seiner Karriere! Kann er es mit einem Sieg abschließen? Ihm gegenüber steht Wendy 
 (rotes Kissen hochhalten), eine zarte Stute im bestem Rennalter, die bisher noch kein 
 Turnier gewinnen konnte, aber hier vielleicht vor ihrem ersten Erfolg steht. Bevor 
-das Rennen beginnt, müssen wir die Fanlager bestimmen: Horst-WendyHorst Wendy-Horst-Wendy usw. (abzählen). Heute ist es Aufgabe der Fans, also euch, euer 
+das Rennen beginnt, müssen wir die Fanlager bestimmen: Horst-WendyHorst   Wendy-Horst-Wendy usw. (abzählen). Heute ist es Aufgabe der Fans, also euch, euer 
 jeweiliges Pferd zum Sieg zu verhelfen! Dazu sollt ihr es nicht nur anfeuern, sondern 
 auch antreiben…“
 ]

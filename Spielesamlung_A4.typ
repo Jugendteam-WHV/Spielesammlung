@@ -30,8 +30,8 @@
       gutter: 0.8em,
       align: horizon,
       // Die Nummer im schwarzen Kasten
-      box(fill: black, inset: (x: 6pt, y: 5pt))[
-        #text(fill: white, weight: "bold", size: 1.2em)[
+      box(fill: black, inset: (x: 7pt, y: 5pt))[
+        #text(fill: white, weight: "black", size: 1.2em)[
           #counter(heading).display()
         ]
       ],
