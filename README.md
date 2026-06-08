@@ -64,13 +64,13 @@ Automatisches Neurendern bei Änderungen:
 typst watch \
   --font-path /fonts \
   Spielesamlung_A4.typ \
-  paper.pdf
+  Spielesamlung_A4.pdf
 ```
 ### Linus
 PDF erzeugen:
 
 ```bash
-typst compile --font-path fonts Spielesamlung_A4.typ paper.pdf
+typst compile --font-path fonts Spielesamlung_A4.typ Spielesamlung_A4.pdf
 ```
 
 #### Live Preview
@@ -81,6 +81,6 @@ Automatisches Neurendern bei Änderungen:
 typst watch \
   --font-path fonts \
   Spielesamlung_A4.typ \
-  paper.pdf
+  Spielesamlung_A4.pdf
 ```
 
