@@ -103,7 +103,7 @@ Ein kleiner Ball ist die Bombe. Ein Zeitzünder in der Mitte sagt blind „Tick,
 )
 Eine Person verlässt den Raum. Die anderen bestimmen einen Dirigenten (oder Dancing Queen), der Bewegungen vorgibt. Die Person kommt herein und muss in drei Versuchen erraten, wer die Bewegungen vorgibt.
 
-== Turtelwushu
+== Turtelwushu <Turtelwushu>
 #info(
   groesse: [6-40 Spieler\*innen],
   alter: "6",
@@ -111,7 +111,7 @@ Eine Person verlässt den Raum. Die anderen bestimmen einen Dirigenten (oder Dan
 )
 Jeder Spieler positioniert die Schildkröte auf seiner Handoberfläche. Ziel ist es, die Schildkröten der anderen von der Hand zu schlagen, ohne die eigene zu verlieren.
 
-== Simon sagt
+== Simon sagt <Simon_sagt>
 #info(
   groesse: [6-99 Spieler\*innen],
   alter: "5",
@@ -119,7 +119,7 @@ Jeder Spieler positioniert die Schildkröte auf seiner Handoberfläche. Ziel ist
 )
 Nur wenn der Satz mit „Simon sagt“ beginnt, muss das Kommando ausgeführt werden. Wer ein Kommando ohne diesen Zusatz ausführt, scheidet aus.
 
-== Helme auf
+== Helme auf <Helme_auf>
 #info(
   groesse: [6-30 Spieler\*innen],
   alter: "8",
@@ -230,3 +230,29 @@ Wer einen Fehler macht, rückt auf den Platz des Klomodells ab, alle anderen rü
 - Klomodel
 * Variante:*
 Mann kann bestimmen den ab einer bestimmten Rolle die unteren Rollen diese Siezen müssen. Aber Untereinander können die Oberen der Stadt sich noch duzen.
+
+== Whisky Mixer <Whisky_Mixer>
+
+#info(
+  groesse: [5-20 Spieler\*innen],
+  alter: "6",
+  material: "Kein Material nötig"
+)
+
+Whisky Mixer ist ein im Kreis gespieltes Aufwärm- und Konzentrationsspiel, bei dem ein verbales Signal weitergegeben wird. Sagt eine Person fehlerfrei „Whisky Mixer“ zu ihrem Nachbarn, läuft das Signal in der aktuellen Kreisrichtung weiter. Sagt sie stattdessen „Messwechsel“ zur vorherigen Person, dreht sich die Spielrichtung um. Durch das hohe Tempo und die ähnlichen Laute entstehen bei der schnellen Wiederholung leicht Zungenbrecher und Versprecher. Wer sich verspricht, die Richtung verwechselt oder zu lange zögert, verliert die Runde.
+
+== Kommando Pimperlim <Kommando_Pimperlim>
+#info(
+  groesse: [3-20 Spieler\*innen],
+  alter: "12",
+  material: "Kein Material nötig"
+)
+Alle Spielenden trommeln mit beiden Zeigefingern kontinuierlich auf die Tischkante. Eine Person gibt als Spielleitung Kommandos, die von allen – inklusive der Spielleitung selbst – sofort ausgeführt werden müssen. Allerdings dürfen Befehle nur dann befolgt werden, wenn das Wort „Kommando“ vorangestellt ist. Fehlt das Wort, muss die vorherige Bewegung (das Trommeln) unverändert fortgesetzt werden.
+
+Die vier Grundkommandos lauten:
+- „Kommando Pimperle“: Kontinuierlich mit den Zeigefingern auf die Tischkante trommeln.
+- „Kommando Flach“: Beide Handflächen flach auf den Tisch legen.
+- „Kommando Hoch“: Beide Hände mit den Handkanten senkrecht auf den Tisch stellen(oder die Arme hochrecken, je nach Variante).
+- „Kommando Faust“: Beide Hände als Fäuste auf den Tisch setzen.
+
+Die Spielleitung versucht die Gruppe zu Fehlern zu verleiten, indem sie Kommandos ohne das Wort „Kommando“ ansagt, diese aber trotzdem selbst vormacht. Wer eine falsche Bewegung ausführt, ein ungültiges Kommando befolgt oder zu spät reagiert, scheidet aus oder erhält einen Minuspunkt.

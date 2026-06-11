@@ -43,7 +43,7 @@ Die Streichhölzer sind die Fische, von denen jeder Mitspieler 20 Stück vor sic
 
 Am Anfang geht es ganz flott: Bei jedem Wurf darf diejenige Anzahl an Streichhölzern weggelegt werden, die der Anzahl der Würfelaugen entspricht. Wirft jemand eine „5“, ister fünf Fische los. Wirft jemand eine „3“, darf er drei Stück zur Seite legen usw. Schwierig wird es, wenn der Fischbestand auf weniger als sechs Stück zusammengeschrumpft ist. Würfelt nämlich jemand eine 5, hat aber nur noch vier Fische vor sich liegen, muss er sich einen dazu holen. Dem Nachbarn ergeht es vielleicht noch schlechter, denn er hatte sich möglicherweise schon auf einen einzigen Fisch heruntergewirtschaftet und würfelt eine 6. Dann kommen gleich 5 Fische in den eigenen Bestand zurück.Das Ziel ist es natürlich alle Fische loszuwerden.
 
-== Nase auf Blau
+== Nase auf Blau <Nase_auf_Blau>
 #info(
   groesse: [6-99 Spieler\*innen],
   alter: "8",
@@ -135,7 +135,7 @@ Auf Kommando beginnt das Spiel. Der jeweils Erste jeder Gruppe läuft in die Mit
 )
 Ein Streifen Kreppband wird auf den Boden geklebt. Alle Spieler stellen sich schulterbreit auf die Linie. Dann sagt der Spielleiter „Cola“ und alle springen auf die rechte Seite der Linie. Danach sagt der Spielleiter „Sprite“ und alle stellen sich wieder in die Mitte der Linie. Dann sagt er „Fanta“ und alle springen auf die Linke Seite der Linie. Die Begriffe „Cola, Fanta, Sprite“ können natürlich auch in einer x-beliebigen Reihenfolge gerufen werden. Der, der falsch steht, scheidet aus. Als erschwerter Faktor kommt „Mezzo Mix“ hinzu, dabei muss man mit den Beinen gekreuzt auf der Linie stehen.
 
-== Krabbencatchen
+== Krabbencatchen <Krabbencatchen>
 #info(
   groesse: [6-99 Spieler\*innen],
   alter: "8",
