@@ -12,7 +12,7 @@
 #set page(header: none)
 #import "../template.typ": kapitel_seite
 
-#kapitel_seite("WUPs", image("../Bilder Kapitel/WuPs.png", width: 100%))
+#kapitel_seite("WUPs", image("../Bilder Kapitel/WUPs.png"))
 #set page(header: context {
     // 1. Aktuelle Seitenzahl holen
     let i = counter(page).at(here()).first()
