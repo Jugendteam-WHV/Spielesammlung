@@ -162,7 +162,6 @@ Der König wechselt alle 5 min sein Leibgericht.Gewonnen hat das Adelsgeschlecht
 
 Jedes Kind bekommt eine Karte, auf der seine Rolle steht. Es gibt den Boss, den Unterboss, Kapitän, Soldat und Konsument. Durch Codewörter, die auf dem Zettel stehen, sollen sie sich also Gruppe zusammenfinden, am besten heimlich, so dass die anderen das nicht mitbekommen. Der Boss holt nun aus dem Abhollager die ersten Schmuggelwaren, und gibt diese weiter an die nächste Position, dieser dann weiter etc. der Konsument gibt diese dann an dem Abnehmerlager ab. Das wäre aber etwas zu einfach, deswegen gibt es natürlich noch Polizisten, die die Schmuggelware, den Kindern abnehmen. Die Gruppe die am Schluss die meisten Schmuggelwaren auf die andere Seite gebracht hat,gewinnt. 
 
-#pagebreak()
 
 == Scrabbel
 #info(

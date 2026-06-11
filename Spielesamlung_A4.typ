@@ -58,6 +58,7 @@
 #include "Kartenspiele/Kartenspiele.typ"
 #include "Impulse/Impulse.typ"
 #include "Gebete/Gebete.typ"
+#include "WUPs/WUPs.typ"
 
 #include "Anhang/Anhang.typ"
 

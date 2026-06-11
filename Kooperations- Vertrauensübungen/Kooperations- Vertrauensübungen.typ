@@ -71,7 +71,7 @@ Zwei Personen sitzen mit angewinkelten Beinen Rücken an Rücken und müssen ver
 )
 
 Alle stehen ganz dicht hintereinander in einem geschlossenen Kreis. Es soll versucht werden, dass jeder sich auf die Schenkel/Knie der hinteren Person setzt. Ist gar nicht so einfach und leicht kann der ganze Kreis an irgendeiner Stelle auseinander brechen.
-
+#pagebreak()
 == Murmelbahn
 #info(
   groesse: "8-30 Spieler*innen",
@@ -124,7 +124,7 @@ Die Gruppe nimmt auf einer Decke Platz. Die Decke kann ggf. soweit zusammengesch
 
 *Sinn:* Gegenseitig helfen und halten, abstimmen und koordinieren
 
-== Gordischer Knoten
+== Gordischer Knoten <Gordischer_Knoten>
 #info(
   groesse: "ab 8 Spieler*innen",
   alter: "6",
@@ -216,7 +216,7 @@ gegenüberliegende Ziel noch nicht erreicht werden kann. Die Aufgabe ist geschaf
 - Berührt eine das Moor muss die Gruppe mit den zu diesem Zeitpunkt zur Verfügung stehenden Fliesen von vorne beginnen
 - Es gibt Augenbinden für die Person die das Moor betreten hat
 - Sobald die Kiste bzw. die Teppichfliese nicht festgehalten wird, verliert die Gruppe diese Kiste bzw.Fliese (Hintergrund: Die Moorgeister klauen sich gerne die Kisten bzw. der Luftstrom, des Flugzeuges reißt die Teile weg)
-
+#pagebreak()
 == Kartensortieren
 #info(
   groesse: "ab 2 Spieler*innen",
