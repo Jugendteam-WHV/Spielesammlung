@@ -256,3 +256,13 @@ Die vier Grundkommandos lauten:
 - „Kommando Faust“: Beide Hände als Fäuste auf den Tisch setzen.
 
 Die Spielleitung versucht die Gruppe zu Fehlern zu verleiten, indem sie Kommandos ohne das Wort „Kommando“ ansagt, diese aber trotzdem selbst vormacht. Wer eine falsche Bewegung ausführt, ein ungültiges Kommando befolgt oder zu spät reagiert, scheidet aus oder erhält einen Minuspunkt.
+
+== Peng <Peng>
+#info(
+  groesse: [5-20 Spieler\*innen],
+  alter: "6",
+  material: "Kein Material nötig"
+)
+Eine Person steht als Spielleitung in der Mitte, dreht sich, zeigt spontan auf jemanden im Kreis und ruft „Peng!“. Die ins Visier genommene Person muss sich sofort ducken. Gleichzeitig müssen die beiden direkten Sitz- oder Stehnachbarn dieser Person ihre Hände wie Pistolen aufeinander richten und den Namen des jeweils anderen (oder wiederum „Peng!“) rufen.
+
+Wer von den beiden Nachbarn langsamer reagiert, scheidet aus. Duckt sich die anvisierte Person in der Mitte nicht rechtzeitig, scheidet sie selbst aus. Bei einem Gleichstand der Nachbarn passiert nichts. Die Ausgeschiedene Person setzt sich au dem Boden. Das Spiel wird fortgesetzt, bis nur noch zwei Personen übrig sind, die im klassischen Rücken-an-Rücken-Duell den Gesamtsieg ausfechten.
