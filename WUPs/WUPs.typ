@@ -12,7 +12,7 @@
 #set page(header: none)
 #import "../template.typ": kapitel_seite
 
-#kapitel_seite("WUPs", image("../Bilder Kapitel/Speile zur Gruppeneinteilung.png"))
+#kapitel_seite("WUPs", image("../Bilder Kapitel/WuPs.png", width: 100%))
 #set page(header: context {
     // 1. Aktuelle Seitenzahl holen
     let i = counter(page).at(here()).first()
@@ -50,7 +50,7 @@ Hier ist eine Liste von Spielen die sich besonders gut als Warm-Up eignen. Sie s
     <Nase_auf_Blau>,
     <Krabbencatchen>,
     <Gordischer_Knoten>,
-    
+
   )
   
   // Array für die Tabellenzellen vorbereiten
