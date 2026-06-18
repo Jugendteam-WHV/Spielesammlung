@@ -22,12 +22,6 @@ Für lokales Rendern wird benötigt:
 curl -fsSL https://typst.community/typst-install/install.sh | sh
 ```
 
-### macOS
-
-```bash
-brew install typst
-```
-
 ### Windows
 
 Download:
@@ -53,7 +47,7 @@ Die Fonts müssen daher nicht systemweit installiert werden.
 PDF erzeugen:
 
 ```bash
-typst compile --font-path /fonts Spielesamlung_A4.typ paper.pdf
+typst compile --font-path /fonts Jugendteam_WHV_Spielesamlung_A4.typ Jugendteam_WHV_Spielesamlung_A4.pdf
 ```
 
 #### Live Preview
@@ -61,13 +55,13 @@ typst compile --font-path /fonts Spielesamlung_A4.typ paper.pdf
 Automatisches Neurendern bei Änderungen:
 
 ```bash
-typst watch --font-path /fonts Spielesamlung_A4.typ Spielesamlung_A4.pdf
+typst watch --font-path /fonts Jugendteam_WHV_Spielesamlung_A4.typ Jugendteam_WHV_Spielesamlung_A4.pdf
 ```
 ### Linus
 PDF erzeugen:
 
 ```bash
-typst compile --font-path fonts Spielesamlung_A4.typ Spielesamlung_A4.pdf
+typst compile --font-path fonts Jugendteam_WHV_Spielesamlung_A4.typ Jugendteam_WHV_Spielesamlung_A4.pdf
 ```
 
 #### Live Preview
@@ -75,6 +69,6 @@ typst compile --font-path fonts Spielesamlung_A4.typ Spielesamlung_A4.pdf
 Automatisches Neurendern bei Änderungen:
 
 ```bash
-typst watch --font-path fonts Spielesamlung_A4.typ Spielesamlung_A4.pdf
+typst watch --font-path fonts Jugendteam_WHV_Spielesamlung_A4.typ Jugendteam_WHV_Spielesamlung_A4.pdf
 ```
 
