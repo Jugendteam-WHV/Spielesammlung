@@ -1,7 +1,7 @@
 # Spielesammlung
 Die Spielesammlung des Jugendteam in Typst.
 
-[Jugendteam_WHV_Spielesamlung_A4.pdf](https://github.com/user-attachments/files/29103126/Jugendteam_WHV_Spielesamlung_A4.pdf)
+[Jugendteam_WHV_Spielesamlung_A4.pdf](Jugendteam_WHV_Spielesamlung_A4.pdf)
 
 # Spielesammlung A4
 
