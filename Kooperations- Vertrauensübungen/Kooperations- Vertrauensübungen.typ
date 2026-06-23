@@ -52,7 +52,7 @@ Aus Seilen wird ein Netz hergestellt, welches zwischen 2 Bäumen oder Pfosten ge
 
 *Sinn:* Gemeinsam eine Strategie entwickeln, gemeinsam das Problem angehen und lösen, keiner kann das Problem alleine bewältigen.
 
-== Aufstehen
+== Aufstehen <Aufstehen>
 #info(
   groesse: "Je 2 Spieler*Innen",
   alter: "6",
@@ -83,7 +83,7 @@ Die Gruppe bekommt Bahnelemente für jeden Teilnehmer. Nun bekommen sie verschie
 
 *Sinn:* Gemeinsame Lösung eines (technischen) Problems, Kreativität, Ideenfindung.
 
-== Schreien-Gröhlen-Kreischen
+== Schreien-Gröhlen-Kreischen <Schreien-Gröhlen-Kreischen>
 #info(
   groesse: "ab 10 Spieler*innen",
   alter: "6",

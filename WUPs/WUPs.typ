@@ -51,7 +51,10 @@ Hier ist eine Liste von Spielen die sich besonders gut als Warm-Up eignen. Sie s
     <Krabbencatchen>,
     <Gordischer_Knoten>,
     <Peng>,
-
+    <Schreien-Gröhlen-Kreischen>,
+    <Aufstehen>,
+    <Wo_ist_mein_Huhn>,
+    <Evolution>,
   )
   
   // Array für die Tabellenzellen vorbereiten

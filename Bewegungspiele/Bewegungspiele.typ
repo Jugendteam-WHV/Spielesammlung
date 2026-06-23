@@ -51,7 +51,7 @@ Am Anfang geht es ganz flott: Bei jedem Wurf darf diejenige Anzahl an Streichhö
 )
 Ein Spieler beginnt und gibt ein Kommando, das aus einem Körperteil, der Präposition „auf“ und einer Farbe besteht, z.B. Naseauf Blau (Knie auf Grau, Schulter auf Pink...). Sofort müssen sich alle Spieler etwas Blaues im Raum suchen und ihre Nase daranhalten (Kleidungsstücke zählen auch!). Wer zuletzt seine  Nasean etwas Blaues gehalten hat, bekommt einen Minuspunktund darf das  nächste Kommando geben.
 
-== Evolution
+== Evolution <Evolution>
 #info(
   groesse: [10-99 Spieler\*innen],
   alter: "8",
@@ -230,11 +230,12 @@ Etwas zum Abstecken des Spielfeldes, Bälle Es wird ein rundes Spielfeld abgeste
 == Hase und Igel
 #info(
   groesse: [6-99 Spieler\*innen],
-  alter: "6"
+  alter: "6",
+  material: "Kein Material nötig"
 )
 Je zwei Kinder haken sich mit Armen bei einander ein. Diese Zweiergrüppchen verteilen sich auf der Fläche.Zwei Kinder sind Fänger und Gefangener. Gejagter kann sich in Sicherheit bringen, indem er sich bei einem Zweiergrüppchen dazu einhackt. Hat er sich eingehakt, muss sich der äußere dritte von dem Grüppchen lösen und wird nun zum Fänger. Der Fänger wird somit plötzlich zum Gejagten.Kann der Fänger den Gejagten fangen, wechseln ebenfalls die Rollen –der Fänger wird zum Gejagten und umgekehrt.Dieses Spiel ist auch sehr nett als Storch und Bär (statt Hase und Igel). Alles gleich, jedoch ist der Fänger der Bär und muss während dem Fangen laut brüllen und mit den Händen„Bär Kratz-Fang-Bewegungen“ machen.Der Gefangene ist der Storch. Dieser muss mit ausgestreckten Armen vor sich in die Händeklatschen und während dem Rennen laut „klapp –klapp“ rufen.
 
-== Wo ist mein Huhn
+== Wo ist mein Huhn <Wo_ist_mein_Huhn>
 #info(
   groesse: [6-30 Spieler\*innen],
   alter: "10",

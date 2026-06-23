@@ -131,7 +131,7 @@ Arschloch kann beliebig lange gespielt werden – oft über mehrere Runden hinwe
 == Schwimmen
 #info(alter: "12", groesse: "2 bis 6", material: "Standard-52-Karten-Deck")
 
-textbf{Schwimmen} ist ein einfaches und beliebtes Kartenspiel, das meist mit 2 bis 6 Spielerinnen und Spielern gespielt wird. Gespielt wird mit einem 32er Skatblatt (Karten von Sieben bis Ass). Ziel des Spiels ist es, eine möglichst hohe Punktezahl auf der Hand zu erreichen, wobei maximal 31 Punkte möglich sind. Die Punkte zählen nur innerhalb einer Farbe (Herz, Karo, Pik oder Kreuz). Bube zählt 10 Punkte, Dame 10 Punkte, König ebenfalls 10 Punkte. Das Ass zählt 11 Punkte, und die Zahlenkarten entsprechend ihrem Wert.
+Schwimmen ist ein einfaches und beliebtes Kartenspiel, das meist mit 2 bis 6 Spielerinnen und Spielern gespielt wird. Gespielt wird mit einem 32er Skatblatt (Karten von Sieben bis Ass). Ziel des Spiels ist es, eine möglichst hohe Punktezahl auf der Hand zu erreichen, wobei maximal 31 Punkte möglich sind. Die Punkte zählen nur innerhalb einer Farbe (Herz, Karo, Pik oder Kreuz). Bube zählt 10 Punkte, Dame 10 Punkte, König ebenfalls 10 Punkte. Das Ass zählt 11 Punkte, und die Zahlenkarten entsprechend ihrem Wert.
 
 Zu Beginn erhält jede Person drei Karten, ebenso werden drei Karten offen in die Mitte gelegt. Wer an der Reihe ist, darf entweder:
 - eine Karte tauschen (eine Handkarte gegen eine Karte aus der Mitte),
