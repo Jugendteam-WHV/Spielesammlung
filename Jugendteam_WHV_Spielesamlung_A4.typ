@@ -1,5 +1,7 @@
 #import "template.typ": *
 #import "@preview/in-dexter:0.7.2": *
+#let index-main(..args) = index(fmt: strong, ..args)
+
 
 // Take a look at the file `template.typ` in the file panel
 // to customize this template and discover how it works.
@@ -70,16 +72,18 @@
     ]
 }
 #show heading.where(level: 2): it => {
- text(size: 1.2em,
-
- [#it.body])
-  
+  block(
+    below: 1em,
+    par(first-line-indent: 0em)[
+      #text(size: 16pt, weight: "bold", it.body)
+    ]
+  )
 }
 #set page(header: none)
 
 
 #columns(2)[
-    #make-index(outlined: true, title: "Schlagwortindex")
+    #make-index(outlined: false, title: "Schlagwortindex")
 ]
 
 
