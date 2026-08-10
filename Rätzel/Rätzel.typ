@@ -132,3 +132,10 @@ Ein Spieler zeigt eine Bewegungsabfolge an den Fingern vor und spricht dazu eine
   [Maus], [tippt auf kleinen Finger],
   [Und jetzt mach's nach!], [(Wichtig: Die Endhaltung der Hände beachten)]
 ))
+#pagebreak()
+== Zug Fahren
+*Ablauf* \
+Spieler die das Spiel kennen lassen wiederholt Züge von einen Punkt zu ein anderen Punkt fahren. Dafür sagen sie: "Ok, mein Zug fährt von (x) nach (Y) und mein Zug fährt." 
+
+*Lösung:* \
+Damit der Zug fährt muss der Spieler als erstes Wort "OK" sagen. 
