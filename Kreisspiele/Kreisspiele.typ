@@ -266,3 +266,12 @@ Die Spielleitung versucht die Gruppe zu Fehlern zu verleiten, indem sie Kommando
 Eine Person steht als Spielleitung in der Mitte, dreht sich, zeigt spontan auf jemanden im Kreis und ruft „Peng!“. Die ins Visier genommene Person muss sich sofort ducken. Gleichzeitig müssen die beiden direkten Sitz- oder Stehnachbarn dieser Person ihre Hände wie Pistolen aufeinander richten und den Namen des jeweils anderen (oder wiederum „Peng!“) rufen.
 
 Wer von den beiden Nachbarn langsamer reagiert, scheidet aus. Duckt sich die anvisierte Person in der Mitte nicht rechtzeitig, scheidet sie selbst aus. Bei einem Gleichstand der Nachbarn passiert nichts. Die Ausgeschiedene Person setzt sich au dem Boden. Das Spiel wird fortgesetzt, bis nur noch zwei Personen übrig sind, die im klassischen Rücken-an-Rücken-Duell den Gesamtsieg ausfechten.
+
+== Beim Psychiater>
+#info(
+  groesse: [6-12 Spieler\*innen],
+  alter: "12",
+  material: "Kein Material nötig"
+)
+Eine Person wird zum Psychiater bestimmt und geht kurz vor die Tür. Die anderen überlegen sich jeweils eine Krankheit. Das können folgende Dinge sein:\ \
+Der eine antwortet immer auf die Fragen, die der Person rechts daneben gestellt wurden bei einem bestimmten Wort oder Gegenstand fängt die Person an zu heulen. Ein anderer hält sich für den Bundeskanzler, oder für einen Spieler der Deutschen Nationalmannschaft. Ein anderer lebt in einer anderen Welt. Der nächste sitzt immer mit Beinen überkreuzt da und hat die Hände in der Hosentasche. Der nächste meint er fühlt er sei ein Flippergerät. Anschließend kommt der Psychiater wieder herein und stellt Fragen und möchte herausfinden an was die Patienten leiden.

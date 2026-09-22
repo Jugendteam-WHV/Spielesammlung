@@ -65,7 +65,7 @@ Der Spielleiter präpariert vorher diverse Kapseln aus dem Überraschungsei. In 
 
 == Marktplatz
 #info(
-  groesse: [10-40 Spieler\*innen],
+  groesse: [10-40],
   alter: "6",
   material: "Verschiedene Gegenstände in mehrfacher Ausführung"
 )
@@ -74,7 +74,7 @@ Für jede Gruppe die benötigt wird, braucht man einen Gegenstand in so vielen A
 
 == Besuch im Zoo
 #info(
-  groesse: [10-40 Spieler\*innen],
+  groesse: [10-40],
   alter: "6",
   material: "Vorbereitete Tierkarten"
 )
@@ -82,7 +82,7 @@ Der Spielleiter bereitet verschiedene Karten mit Tieren vor. Jeder TN bekommt ei
 
 == Bonbons / Gummibärchen ziehen
 #info(
-  groesse: [10-99 Spieler\*innen],
+  groesse: [10-99],
   alter: "6",
   material: "Kein Material nötig"
 )
@@ -90,7 +90,7 @@ Es werden vorher genügend Gummibärchen oder Bonbons bestimmter Farben/Sorten h
 
 == Schuheinteilung
 #info(
-  groesse: [10-99 Spieler\*innen],
+  groesse: [10-99],
   alter: "6",
   material: "Kein Material nötig"
 )
@@ -98,7 +98,7 @@ Jeder zieht einen Schuh aus und legt ihn in die Mitte auf einen Haufen. Dann wer
 
 == Daumen oben
 #info(
-  groesse: [10-20 Spieler\*innen],
+  groesse: [10-20],
   alter: "6",
   material: "Kein Material nötig"
 )
@@ -107,7 +107,7 @@ Jeder*e soll seinen/ihrer Hände falten. Danach werden die Teams anhand der oben
 
 == Durchzählen
 #info(
-  groesse: [10-99 Spieler\*innen],
+  groesse: [10-99],
   alter: "6",
   material: "Kein Material nötig"
 )
@@ -115,7 +115,7 @@ Der Spielleiter*in zählt je nach Gruppengröße im Kreis alle Teilnehmer*Innen 
 
 == Pärchen Suchspiel 
 #info(
-  groesse: [10-40 Spieler\*innen],
+  groesse: [10-40],
   alter: "6",
   material: "Vorbereitete Partnerkarten"
 )
@@ -123,3 +123,17 @@ Es sollen berühmte Paare gefunden werden, jeder TN bekommt einen Zettel mit ein
 
 *Varianten:* \
 Die Pärchen müssen sich, wenn sie sich gefunden haben, auf den Boden setzen. Das letzte Pärchen scheidet aus. So entsteht eine neue Form des Spieles.
+
+== Kartenverteilen
+#info(
+  groesse: [6-30],
+  alter: "6",
+  material: "Ein Kartenspiel"
+)
+Jeder Mitspieler zieht eine Karte. Je nach gewünschter Gruppengröße gibt es folgende Möglichkeiten zur Gruppeneinteilung:
+
+- Rote Karten/schwarze Karten bilden jeweils eine Gruppe
+- Alle Karos/Piks/Herzen/Kreuze bilden eine Gruppe
+- Alle Siebener, Achter, Neuner, etc. bilden eine Gruppe
+
+*Wichtig*: vorher die Karten auf die Gesamtgruppengröße anpassen, so dass das Prinzip Zufall keine Chance mehr hat

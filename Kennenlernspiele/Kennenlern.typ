@@ -180,7 +180,7 @@ Jedes Gruppenmitglied macht zu verschiedenen Eigenschaften (Hobby, Schule/Beruf,
 )
 Bei der Vorstellungsrunde fällt es manchen TN immer schwer etwas über sich zu erzählen. Meistens endet es damit, dass jeder fast dasselbe wie die Vorredner erzählt. Von daher empfiehlt es sich, noch 2-3 Fragen aus einem Topf zu ziehen und diese neben der normalen Vorstellung zu beantworten.
 
-== Peng Kennenlernspiel
+== Peng Kennenlernspiel <Peng_Kennenlernspiel>
 #info(
   groesse: [6-30 Spieler\*innen],
   alter: "10",
