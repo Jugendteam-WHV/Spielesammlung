@@ -138,4 +138,22 @@ Ein Spieler zeigt eine Bewegungsabfolge an den Fingern vor und spricht dazu eine
 Spieler die das Spiel kennen lassen wiederholt Züge von einen Punkt zu ein anderen Punkt fahren. Dafür sagen sie: "Ok, mein Zug fährt von (x) nach (Y) und mein Zug fährt." 
 
 *Lösung:* \
-Damit der Zug fährt muss der Spieler als erstes Wort "OK" sagen. 
+Damit der Zug fährt muss der Spieler als erstes Wort "OK" sagen.
+
+== Die Addamsfamily
+Die Spielerinnen und Spieler, die das Spiel bereits kennen, stellen sich in einem Kreis auf. Alle übrigen warten außerhalb der Hörweite, sodass sie den Ablauf nicht beobachten oder mithören können. Anschließend wird jeweils eine Person in die Mitte des Kreises gebeten.
+
+Sobald die Person in der Kreismitte steht, trägt die Gruppe gemeinsam folgenden Text vor und führt dabei die passenden Bewegungen aus:
+
+- Dududu dum 
+- Schnips, schnips
+- Dududu dum 
+- Schnips, schnips
+- Dududu dum, dududu dum
+- Schnips, schnips
+- „Wir sind die Addams Family und du musst so lange Faxen machen, bis wir anfangen zu klatschen.“
+- (Die Gruppe klatscht.)
+
+Im Anschluss ahmt die Gruppe jede Bewegung der Person in der Mitte nach. Dadurch entsteht der Eindruck, dass diese etwas Bestimmtes tun muss, um die Gruppe zum Klatschen zu bringen.
+
+Das Rätsel ist gelöst, sobald die Person in der Mitte selbst klatscht. Daraufhin klatscht die gesamte Gruppe mit. Die Person gehört nun zu den Eingeweihten und reiht sich in den Kreis ein. Anschließend wird die nächste Person in die Kreismitte gebeten.
