@@ -23,7 +23,7 @@ draußen aktiv werden.],
 So vielfältig die Auswahl an Spielen ist, so vielfältig sind auch die Voraussetzungen, die jeweils 
 erfüllt sein müssen. Vor jedem Spiel sollten daher folgende Fragen beantwortet werden:
 - Was möchte ich mit dem Spiel bezwecken?
-- Passt das Spiel zum Alter und zur derzeitigen Phase der Gruppe?
+- Passt das Spiel zum Alter und zur derzeitigen Phase der Gruppe? (Siehe Kapitel „Spielearten und Gruppenphasen“)
 - Welche (Sicherheits-)Risiken gibt es zu beachten?
 - Welches Material brauche ich für das Spiel und was muss ich im Vorfeld vorbereiten? Wenn im Rahmen einer Spielekette Spiele aneinander gereiht werden, ist auf die richtige Anordnung zu achten. So sollten am Anfang leichte und gut verständliche Spiele stehen, die alle Teilnehmer verstehen und ohne Probleme mitspielen können.
 
@@ -71,3 +71,87 @@ sich am Anfang viele Fragen, die die Teilnehmer in den Bann der Geschichte ziehe
 Der Kreativität des Gruppenleiters sind hier keine Grenzen gesetzt, solange die jeweilige 
 Geschichte für die Zielgruppe passend ist. Sofern die Spielekette in einem zeitlich begrenzten 
 Rahmen stattfindet (z.B. in einer Gruppenstunde), muss darauf geachtet werden, dass das Ziel der Geschichte erreicht wird. Daher lieber einen variablen Mittelteil einplanen, der bei Zeitknappheit gekürzt werden kann.
+
+== Spielearten und Gruppenphasen <Spielearten_und_Gruppenphasen>
+Es gibt Spielarten, die JugendleiterInnen in jeder Gruppenphase ensetzen können. Dazu zählen vor allem:
+- Spiele im Kreis
+- Warm-up/Lockerungsspiele
+- Ratespiele
+
+Andere Spiele passen in speziellen Phasen:
+- Kennelernspiele $->$ in der Kennenlernphase
+- Vertrauensübungen $->$ in der Vertrautheitsphase ( Unter bewusstem Einsatz auch in der Differenzierungsphase möglich) 
+- Reflexionsspiele $->$ in der Abschiedsphase
+
+SpielleiterInnen sollten immer wieder selbst hinterfragen, welche Bedürfnisse sie in ihrer Gruppe wahrnehmen. Sie müssen überlegen, welche Spiele die Gruppe unterstützen.
+#table(
+  columns: (1fr, 1fr, 1fr),
+  strong("Gruppenphase"), strong("Geeignet"), strong("Ungeeignet"),
+  "Kennenlernphase", [
+   - Namesspiel
+   - Spiele im Kreis
+   - Warm-up/Lockerungsspiele
+   - Bewegungsspiele ohne Körperlichen Kontakt
+   - Ratespiele
+   - Gruppeneinteilungsspiele
+   - Erkundungsspiele
+   ],[
+    - Kooperationsübungen
+    - Vertrauensübungen
+    - Spiele mit Körperlichen Kontakt
+    - Geländespiele
+    - Nachtspiele
+   ],
+   "Rollenklährungsphase",
+   [
+    - Wettkampfspiele
+    - Warm-up/Lockerungsspiele
+    - Bewegungsspiele
+    - Ratespiele
+    - Gruppeneinteilungsspiele
+   ],
+   [
+    - Kooperationsübungen
+    - Vertrauensübungen
+    - Kennenlernspiele
+   ],
+   "Vertrautheitsphase",
+   [
+    - Vertrauensübungen
+    - Kooperationsübungen
+    - Geländespiele
+    - Warnehmungsspiele
+    - Ratespiele
+    - Planspiele
+    - Rhythmusspiele
+   ],
+   [
+    - Kennenlernspiele
+   ],
+   "Differenzierungsphase",
+   [
+    - Rollenspiele
+    - Planspiele
+    - Kooperationsübungen
+    - Wahrnehmungsspiele
+    - Spieleketten
+    - Geländespiele
+    - Rythmusspiele
+   ],
+   [
+    - Kennenlernspiele
+   ],
+   "Abschiedsphase",
+   [
+    - Spiele im Kreis
+    - Reflexionsspiele
+    - Warm-up/Lockerungsspiele
+   ],
+   [
+    - Kooperationsübungen
+    - Vertrauensübungen
+    - Kennenlernspiele
+   ]
+
+)
+
