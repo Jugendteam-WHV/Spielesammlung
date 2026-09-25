@@ -79,21 +79,40 @@ Da merkten die Eltern, dass ihr Kind nicht nur Schwarz und Weiß sah wie sie sel
 Vermeintlich “Anders sein” ist bereichernd, ermöglicht neue Blickwinkel und lässt die Welt mit andere Augen sehen. Man mus nur zuhören und offen in Kontakt treten.
 
 == 60 Sekunden auf dieser Welt
-Schaut 60 Sekunden lang auf die Uhr und nehmt jede Sekunde bewusst wahr. Spürt, wie sich 60 Sekunden dehnen und zugleich flüchtig anfühlen können. Denkt darüber nach, was in dieser kurzen Zeitspanne überall auf der Welt passiert – die Freude und das Leid, das Gute und das Schlechte. \ \
-In diesen 60 Sekunden, sind auf der Welt:
-- 241 Mio. E-Mails wurden verschickt worden
-- 500 Stunden Videomaterial bei YouTube hochgeladen worden
-- 1500 Bäume gepflanzt worden
-- 259 Kinder geboren worden, dabei sind 0,5 Frauen gestorben
-- 1 Mensch durch Gewalt oder Konflikt getötet worden
-- 20 Menschen durch Naturkatastrophen betroffen
-- 50 Menschen an vermeidbaren Krankheiten gestorben
-- 100 Menschen in Armut geraten
-- 200 Menschen Opfer von Diskriminierung oder Ungerechtigkeit geworden
-- 2 Kinder als Sklaven verkauft worden
-- 6 Kinder an Hunger gestorben, insgesamt starben 10 Kinder
-- 6 Mädchen an den Genitalien verstümmelt worden
-- 435 Kinder und Jugendliche vergewaltigt worden
+Schaut 60 Sekunden lang auf die Uhr.
+Nehmt jede einzelne Sekunde bewusst wahr.
+
+Eine Minute erscheint kurz. Und doch kann sie sich erstaunlich lang anfühlen, wenn man jede Sekunde bewusst erlebt.
+
+Denkt darüber nach, was in diesen 60 Sekunden überall auf der Welt geschieht. Während wir hier sitzen, lachen Menschen, feiern ihre Erfolge, verlieben sich, werden geboren und erleben glückliche Momente. Gleichzeitig erleben andere Menschen Leid, Hunger, Gewalt, Krankheit und Ungerechtigkeit.
+
+Was geschieht in nur einer Minute auf unserer Welt?
+
+In diesen 60 Sekunden …
+
+- werden 241 Millionen E-Mails verschickt,
+- werden 500 Stunden Videomaterial auf YouTube hochgeladen,
+- werden etwa 1.500 Bäume gepflanzt,
+- werden 259 Kinder geboren – gleichzeitig stirbt etwa eine halbe Frau,
+- wird ein Mensch durch Gewalt oder einen Konflikt getötet,
+- sind 20 Menschen von Naturkatastrophen betroffen,
+- sterben 50 Menschen an vermeidbaren Krankheiten,
+- geraten 100 Menschen in Armut,
+- werden 200 Menschen Opfer von Diskriminierung oder Ungerechtigkeit,
+- werden zwei Kinder als Sklaven verkauft,
+- sterben sechs Kinder an Hunger – insgesamt sterben zehn Kinder,
+- werden sechs Mädchen Opfer von Genitalverstümmelung,
+- und werden 435 Kinder und Jugendliche Opfer sexualisierter Gewalt.
+
+Und all das geschieht, während für uns gerade einmal 60 Sekunden vergehen.
+
+Eine Minute kann sich kurz anfühlen.
+Eine Minute kann sich lang anfühlen.
+
+Doch für jeden einzelnen Menschen, der in dieser Minute geboren wird, leidet, stirbt, Gewalt erfährt oder Hoffnung schöpft, ist sie Teil seines Lebens.
+
+Was bedeutet eine einzige Minute für dich?
+Und was bedeutet sie für die Menschen, deren Leben in derselben Minute ganz anders aussieht?
 
 == Das Geschenk
 Vor langer Zeit lebte ein König mit seinen drei Töchtern in großem Wohlstand. Er liebte seine Töchter über alles – jede auf ihre eigene Weise. Doch als er älter wurde, stellte sich die Frage, wer eines Tages den Thron erben sollte. Da er keine bevorzugte, wollte er eine Entscheidung treffen, die auf mehr als nur Gefühl beruhte.
