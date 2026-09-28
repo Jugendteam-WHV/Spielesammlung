@@ -266,3 +266,12 @@ Auf dem gesamten Gelände sind Karten verteilt mit einer Nummer (1-100) und auf 
   material: "Stifte, Zettel"
 )
 Die Betreuer haben eine Liste von Tiergeräuschen, die sie machen müssen, Sie verteilen sich auf dem Gelände und laufen durch die Gegend.  Nach jeweils 5 Minuten ertönt ein Geräusch, das zum Tierwechsel ruft. Die Kinder müssen alle Tiere finden. Um es etwas schwieriger zu machen dürfen sie aber nur zwei Unterschriften von einem Betreuer haben. Die Gruppe die zuerst bei jedem Tier eine Unterschrift hat gewinnt. Kuh, Ziege, Katze, Frosch, Esel, Hund, Huhn, Hahn, Fisch, Elefant, Fisch, Schwein, Mensch etc.
+
+== Tisch des Hauses <Tisch_des_Hauses>
+#info(groesse: [6-99 Spieler\*innen],
+  alter: "6",
+  material: "Kein Material nötig"
+)
+Die Spielleitung nennt nacheinander verschiedene Gegenstände oder Aufgaben. Ziel der Spielenden ist es, den beschriebenen Gegenstand möglichst schnell zu finden und zur Spielleitung zu bringen. Wer den Gegenstand als Erstes abgibt, gewinnt die Runde und erhält einen Punkt.
+
+Die Gegenstände können sowohl konkret als auch etwas kniffliger beschrieben werden. So müssen die Spielenden nicht nur schnell sein, sondern auch die Beschreibung richtig interpretieren. Nach einer vorher festgelegten Anzahl an Runden gewinnt die Person oder das Team mit den meisten Punkten.

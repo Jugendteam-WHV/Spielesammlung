@@ -55,6 +55,7 @@ Hier ist eine Liste von Spielen die sich besonders gut als Warm-Up eignen. Sie s
     <Aufstehen>,
     <Wo_ist_mein_Huhn>,
     <Evolution>,
+    <Tisch_des_Hauses>
   )
   
   // Array für die Tabellenzellen vorbereiten
