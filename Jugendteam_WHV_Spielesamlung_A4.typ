@@ -18,9 +18,34 @@
 #outline()
 #pagebreak()
 
-#set heading(numbering: "1.1") // Standard-Nummerierung aktivieren
+#set heading(numbering: "1.1.a") // Standard-Nummerierung aktivieren
 
 #show heading.where(level: 2): it => {
+  // 'it' enthält alle Infos der Überschrift (Nummer, Text, etc.)
+  
+  stack(
+    dir: ttb,
+    spacing: 0em,
+    line(length: 100%, stroke: 1.5pt),
+    grid(
+      columns: (auto, 1fr),
+      gutter: 0.8em,
+      align: horizon,
+      // Die Nummer im schwarzen Kasten
+      box(fill: black, inset: (x: 7pt, y: 5pt))[
+        #text(fill: white, weight: "black", size: 1.2em)[
+          #counter(heading).display()
+        ]
+      ],
+      // Der Text der Überschrift
+      it.body,
+      index[#it.body]
+    )
+    
+  )
+  
+}
+#show heading.where(level: 3): it => {
   // 'it' enthält alle Infos der Überschrift (Nummer, Text, etc.)
   
   stack(

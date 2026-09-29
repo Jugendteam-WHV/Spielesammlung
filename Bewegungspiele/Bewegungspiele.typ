@@ -275,3 +275,54 @@ Die Betreuer haben eine Liste von Tiergeräuschen, die sie machen müssen, Sie v
 Die Spielleitung nennt nacheinander verschiedene Gegenstände oder Aufgaben. Ziel der Spielenden ist es, den beschriebenen Gegenstand möglichst schnell zu finden und zur Spielleitung zu bringen. Wer den Gegenstand als Erstes abgibt, gewinnt die Runde und erhält einen Punkt.
 
 Die Gegenstände können sowohl konkret als auch etwas kniffliger beschrieben werden. So müssen die Spielenden nicht nur schnell sein, sondern auch die Beschreibung richtig interpretieren. Nach einer vorher festgelegten Anzahl an Runden gewinnt die Person oder das Team mit den meisten Punkten.
+
+== Spieleolympiade
+
+#info(groesse: [6-99 Spieler\*innen],
+  alter: "6",
+  material: "Je nach Aufbau verschieden"
+)
+
+Bei der Spieleolympiade treten mehrere Teams in einer Reihe kurzer Wettkämpfe gegeneinander an. Jede Station bringt eine neue Aufgabe: mal ist Geschick gefragt, mal Schnelligkeit, mal Köpfchen oder Teamwork. Für jede gewonnene Disziplin gibt es Punkte, und am Ende gewinnt das Team mit der höchsten Gesamtpunktzahl. 
+
+Weil sich die Stationen beliebig zusammenstellen lassen, passt die Olympiade für kleine und große Gruppen, drinnen wie draußen, und sorgt für Bewegung, Spaß und Gemeinschaft.
+
+Neben denn nachfolgenden Spielen kann man auch noch weitere Spiele in die Olympiade einbauen, wie z.B. Eierlauf, Sackhüpfen, Dosenwerfen, Wassertransport, etc. Insbesondere aus dem Kapitel Kooperations-/Vertrauensübungen lassen sich viele Spiele in die Olympiade einbauen.
+
+
+#counter(heading).step(level: 3)
+=== Kim Spiel
+#info(groesse: [1-96 Spieler\*innen],
+  alter: "6",
+  material: "Schale oder Tisch, Decke, Gegenstände"
+)
+Auf dem Tisch oder in eine Schale werden verschiedene Gegenstände gelegt. Die Spielleitung deckt die Gegenstände mit einer Decke ab. Die Spieler haben nun 30 Sekunden Zeit, sich die Gegenstände einzuprägen. Danach wird die Decke entfernt und die Spieler müssen aufschreiben, welche Gegenstände sie gesehen haben.
+
+=== Pantomime Post
+#info(groesse: [2-8 Spieler\*innen],
+  alter: "6",
+  material: "Zettel, Stift"
+)
+Die Kinder geben wie bei Stille Post ein Wort weiter. Allerdings wird das Wortnicht gesprochen, sondern pantomimisch dargestellt. Dem erste Spieler wird das Wort gezeigt und stellt ihn pantomimisch dar. Der nächste Spieler muss das Wort erraten und ihn wiederum pantomimisch darstellen. Am Ende wird das letzte Wort mit dem ursprünglichen verglichen, um zu sehen, wie sehr er sich verändert hat. Es müssen möglichst viele Wörter richtig übermittelt werden. 
+=== Songst weiter Singen
+#info(
+  groesse: [1-8 Spieler\*innen],
+  alter: "6",
+  material: "Händy, Bluetooth Box"
+)
+Songs werden bis zu einem gewissen Punkt vorgespielt und dann gestoppt, sodass die Kinder weitersingen können. Es müssen möglichst viele Songs richtig weitergesungen werden.
+
+=== Falsche Farbe
+#info(groesse: [1-8 Spieler\*innen],
+  alter: "6",
+  material: "Bunte Zettel"
+)
+Eine Farbe wird genannt und man darf jedes andere Papier außer das mit der jeweiligen Farbe berühren. Ziel ist es, möglichst viele Zettel zu sammeln, ohne die genannte Farbe zu berühren.
+#pagebreak()
+=== Betreuer Gegenstände
+#info(groesse: [1-8 Spieler\*innen],
+  alter: "6",
+  material: "Gegenstände von Betreuern"
+)
+Jeder Betreuer gibt eine Gegenstand ab den die Kinder richtig zuordnen müssen.
+
