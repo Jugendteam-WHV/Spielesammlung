@@ -267,7 +267,7 @@ Eine Person steht als Spielleitung in der Mitte, dreht sich, zeigt spontan auf j
 
 Wer von den beiden Nachbarn langsamer reagiert, scheidet aus. Duckt sich die anvisierte Person in der Mitte nicht rechtzeitig, scheidet sie selbst aus. Bei einem Gleichstand der Nachbarn passiert nichts. Die Ausgeschiedene Person setzt sich au dem Boden. Das Spiel wird fortgesetzt, bis nur noch zwei Personen übrig sind, die im klassischen Rücken-an-Rücken-Duell den Gesamtsieg ausfechten.
 
-== Beim Psychiater>
+== Beim Psychiater
 #info(
   groesse: [6-12 Spieler\*innen],
   alter: "12",
@@ -275,3 +275,23 @@ Wer von den beiden Nachbarn langsamer reagiert, scheidet aus. Duckt sich die anv
 )
 Eine Person wird zum Psychiater bestimmt und geht kurz vor die Tür. Die anderen überlegen sich jeweils eine Krankheit. Das können folgende Dinge sein:\ \
 Der eine antwortet immer auf die Fragen, die der Person rechts daneben gestellt wurden bei einem bestimmten Wort oder Gegenstand fängt die Person an zu heulen. Ein anderer hält sich für den Bundeskanzler, oder für einen Spieler der Deutschen Nationalmannschaft. Ein anderer lebt in einer anderen Welt. Der nächste sitzt immer mit Beinen überkreuzt da und hat die Hände in der Hosentasche. Der nächste meint er fühlt er sei ein Flippergerät. Anschließend kommt der Psychiater wieder herein und stellt Fragen und möchte herausfinden an was die Patienten leiden.
+
+== Kotzendes Känguru
+#info(
+  groesse: [6-40 Spieler\*innen],
+  alter: "6",
+  material: "Kein Material nötig"
+)
+Alle stellen sich im Kreis auf, eine Person steht als Spielleiterin in der Mitte. Sie dreht sich und zeigt plötzlich auf jemanden im Kreis, während sie eine Figur ruft. Jetzt müssen drei Personen blitzschnell reagieren: die Person, auf die gezeigt wurde, sowie ihre beiden Nachbarinnen links und rechts – gemeinsam stellen sie die Figur pantomimisch dar. Wer zu langsam ist, eine falsche Bewegung macht oder gar nicht reagiert, muss selbst in die Mitte und übernimmt die Rolle des Spielleiters.
+
+Mögliche Figuren:
+
+- Kotzendes Känguru: Die Nachbar*innen bilden mit den Armen eine Schüssel, die mittlere Person "übergibt" sich lautstark hineingewürgt.
+- Elefant: Die Nachbar*innen formen mit ihren Armen die Ohren, die mittlere Person macht mit beiden Armen einen Rüssel und trompetet "Töröööö".
+- Toaster: Die Nachbar*innen fassen sich über der mittleren Person an den Händen, diese springt dazwischen hoch nach oben wie Toastbrot.
+- Waschmaschine: Die mittlere Person dreht schwungvoll den Kopf, während die Nachbar*innen die Trommel darstellen.
+- Mixer: Die Nachbar*innen halten je eine Hand über den Kopf der mittleren Person, die sich dazu um die eigene Achse dreht.
+- Die drei Affen: Die rechte Person hält sich die Ohren zu, die mittlere die Augen, die linke den Mund.
+- Döner: Die mittlere Person dreht sich wie ein Spieß, die Nachbar*innen tun so, als würden sie mit Messern Fleisch abschneiden, und rufen "Mit scharf?"
+
+Mit der Zeit können immer mehr Figuren eingeführt werden – so wird das Spiel zunehmend anspruchsvoller und lustiger!
