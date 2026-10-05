@@ -239,7 +239,11 @@ Mann kann bestimmen den ab einer bestimmten Rolle die unteren Rollen diese Sieze
   material: "Kein Material nötig"
 )
 
-Whisky Mixer ist ein im Kreis gespieltes Aufwärm- und Konzentrationsspiel, bei dem ein verbales Signal weitergegeben wird. Sagt eine Person fehlerfrei „Whisky Mixer“ zu ihrem Nachbarn, läuft das Signal in der aktuellen Kreisrichtung weiter. Sagt sie stattdessen „Messwechsel“ zur vorherigen Person, dreht sich die Spielrichtung um. Durch das hohe Tempo und die ähnlichen Laute entstehen bei der schnellen Wiederholung leicht Zungenbrecher und Versprecher. Wer sich verspricht, die Richtung verwechselt oder zu lange zögert, verliert die Runde.
+Alle Kinder stehen/sitzen im Kreis. Der Spielleiter definiert, dass linksum das Wort „Whiskey-Mixer“ weitergegeben wird. (Man kann das eine Runde lang üben) Rechtsum geht das Wort „Wachs-Maske“ (was man wieder erst eine Runde jeden mal sagen lassen kann.).
+
+Der Spielleiter beginnt nun und sagt dem Kind links das Wort „Whiskey-Mixer“, dieses macht weiter, .... Möchte ein Kind die Richtung ändern, sagt es "Mess-Wechsel".
+
+Erschwert kann es werden, indem alle, die sich versprechen, eine Runde um die Gruppe rennen müssen. Eine weitere Ergänzung kann sein, dass alle, die lachen müssen, eine Zusatzrunde rennen.
 
 == Kommando Pimperlim <Kommando_Pimperlim>
 #info(
