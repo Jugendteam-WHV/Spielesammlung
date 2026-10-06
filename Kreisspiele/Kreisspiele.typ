@@ -299,3 +299,11 @@ Mögliche Figuren:
 - Döner: Die mittlere Person dreht sich wie ein Spieß, die Nachbar*innen tun so, als würden sie mit Messern Fleisch abschneiden, und rufen "Mit scharf?"
 
 Mit der Zeit können immer mehr Figuren eingeführt werden – so wird das Spiel zunehmend anspruchsvoller und lustiger!
+
+== Ich fahre Zug
+#info(
+  groesse: [6-40 Spieler\*innen],
+  alter: "6",
+  material: "Kein Material nötig"
+)
+Alle sitzen im Kreis, ein Platz ist leer. Eine*r der Teilnehmer*innen rechts oder links vom freien Stuhl beginnt, indem er/sie auf den Stuhl rückt und sagt: „Ich fahre Zug“, der/die Nächste in der Reihenfolge rutscht nach und sagt „ich fahre mit“, wieder der/die Nächste rutscht nach und sagt „und ich fahre schwarz mit …“. Dazu nennt er/sie einen Namen aus der Runde. Der/die genannte Teilnehmer*in steht auf und besetzt den frei gewordenen Platz. Um den nun neu frei gewordenen Platz „streiten“ sich die beiden, die dem Stuhl am nächsten sitzen und es startet von vorne.
