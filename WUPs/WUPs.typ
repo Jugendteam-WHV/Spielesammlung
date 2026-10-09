@@ -38,6 +38,8 @@ Hier ist eine Liste von Spielen die sich besonders gut als Warm-Up eignen. Sie s
 
  Es wird kein Material benötigt oder Material welches in der Regel überall verfügbar ist. Die Spiele sind so gestaltet, dass sie die Interaktion und das Kennenlernen fördern, ohne dass sie zu viel Zeit in Anspruch nehmen. Sie eignen sich hervorragend, um die Energie in der Gruppe zu steigern und eine positive Atmosphäre zu schaffen, bevor die Hauptaktivitäten beginnen.
 
+ Bei der Auswahl  des Wups ist auf die Gruppenphase zu achten. Wups wie z.B. Krabbencatchen eignen sich nicht für die Kennenlernphase, da sie körperliche Nähe erfordern und die Teilnehmer sich erst einmal aneinander gewöhnen sollten. In der Kennenlernphase sind Spiele wie z.B. Simon sagt oder Whisky Mixer besser geeignet, da sie weniger körperliche Nähe erfordern und die Teilnehmer sich auf spielerische Weise kennenlernen können.
+
 
 #context {
   // 1. Hier trägst du manuell die Labels der Spiele ein, die in die Tabelle sollen:
