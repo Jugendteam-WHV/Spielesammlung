@@ -290,7 +290,7 @@ Weil sich die Stationen beliebig zusammenstellen lassen, passt die Olympiade fü
 Neben denn nachfolgenden Spielen kann man auch noch weitere Spiele in die Olympiade einbauen, wie z.B. Eierlauf, Sackhüpfen, Dosenwerfen, Wassertransport, etc. Insbesondere aus dem Kapitel Kooperations-/Vertrauensübungen lassen sich viele Spiele in die Olympiade einbauen.
 
 
-#counter(heading).step(level: 3)
+
 === Kim Spiel
 #info(groesse: [1-96 Spieler\*innen],
   alter: "6",
