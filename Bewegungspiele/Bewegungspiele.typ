@@ -326,3 +326,15 @@ Eine Farbe wird genannt und man darf jedes andere Papier außer das mit der jewe
 )
 Jeder Betreuer gibt eine Gegenstand ab den die Kinder richtig zuordnen müssen.
 
+== Chinesische Mauer
+#info(groesse: [6-99 Spieler\*innen],
+  alter: "6",
+  material: "Kein Material nötig"
+)
+Zwei Linien markieren die Spielfeldgrenzen, ein oder zwei Fänger stehen in der Mitte. Auf ein Signal müssen alle anderen von einer Seite zur anderen laufen, ohne sich abschlagen zu lassen. Wer gefangen wird, reiht sich in der Mitte ein und fasst den Fänger an der Hand. So wächst bei jeder Runde die „Mauer”, die dann gemeinsam Läufer fängt. Dabei darf die Kette nicht abreißen. Das Spiel endet, wenn nur noch ein Läufer übrig ist. Dieser gewinnt und beginnt in der nächsten Runde als Fänger.
+
+*Variante:*\
+Die Fänger bilden keine Kette.
+
+
+
