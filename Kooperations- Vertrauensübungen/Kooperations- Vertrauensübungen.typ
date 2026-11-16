@@ -10,6 +10,7 @@
   v(0.8em)
 }
 #import "../template.typ": kapitel_seite
+#import "@preview/showybox:2.0.4": showybox
 #kapitel_seite("Kooperations-/Vertrauensübungen", image("../Bilder Kapitel/Kooperration.png"))
 #set page(header: context {
     // 1. Aktuelle Seitenzahl holen
@@ -52,6 +53,24 @@ Aus Seilen wird ein Netz hergestellt, welches zwischen 2 Bäumen oder Pfosten ge
 
 *Sinn:* Gemeinsam eine Strategie entwickeln, gemeinsam das Problem angehen und lösen, keiner kann das Problem alleine bewältigen.
 
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Sinn",
+  [Gemeinsam eine Strategie entwickeln, gemeinsam das Problem angehen und lösen, keiner kann das Problem alleine bewältigen.]
+)
+
 == Aufstehen <Aufstehen>
 #info(
   groesse: "Je 2 Spieler*Innen",
@@ -61,7 +80,24 @@ Aus Seilen wird ein Netz hergestellt, welches zwischen 2 Bäumen oder Pfosten ge
 
 Zwei Personen sitzen mit angewinkelten Beinen Rücken an Rücken und müssen versuchen gemeinsam aufzustehen, ohne die Arme zu Hilfe zu nehmen.
 
-*Sinn:* Aufeinander abgestimmtes Handeln führt zum Ziel.
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Sinn",
+  [Aufeinander abgestimmtes Handeln führt zum Ziel.]
+)
 
 == Schenkelsitzen
 #info(
@@ -71,7 +107,7 @@ Zwei Personen sitzen mit angewinkelten Beinen Rücken an Rücken und müssen ver
 )
 
 Alle stehen ganz dicht hintereinander in einem geschlossenen Kreis. Es soll versucht werden, dass jeder sich auf die Schenkel/Knie der hinteren Person setzt. Ist gar nicht so einfach und leicht kann der ganze Kreis an irgendeiner Stelle auseinander brechen.
-#pagebreak()
+
 == Murmelbahn
 #info(
   groesse: "8-30 Spieler*innen",
@@ -81,7 +117,24 @@ Alle stehen ganz dicht hintereinander in einem geschlossenen Kreis. Es soll vers
 
 Die Gruppe bekommt Bahnelemente für jeden Teilnehmer. Nun bekommen sie verschiedenen Aufgaben gestellt, um die Murmel von der einen Seite bis zu anderen zu transportieren. Erst nur so, dass sie ein Gefühl bekommen, die Murmel zu transportieren. Später müssen die Teilnehmer sich wieder hinten anreihen.
 
-*Sinn:* Gemeinsame Lösung eines (technischen) Problems, Kreativität, Ideenfindung.
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Sinn",
+  [Gemeinsame Lösung eines (technischen) Problems, Kreativität, Ideenfindung.]
+)
 
 == Schreien-Gröhlen-Kreischen <Schreien-Gröhlen-Kreischen>
 #info(
@@ -111,7 +164,23 @@ Stühle werden wie bei der Reise nach Jerusalem in einer Reihe Rücken an Rücke
 
 Zwei Personen sitzen sich gegenüber. Jeder hat die Aufgabe dem Gegenüber etwas zu erzählen -egal was. Nur keiner von beiden darf eine Pause einlegen, sondern muss ununterbrochen erzählen. Ausgeschieden ist die Person, die abbricht und eine Pause einlegt (Atempausen sind erlaubt).
 
-*Sinn:* Manche reden gerne und lassen anderen keine Chance.
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Sinn",
+  [Manche reden gerne und lassen anderen keine Chance.]
+)
 
 == Decke drehen
 #info(
@@ -133,7 +202,24 @@ Die Gruppe nimmt auf einer Decke Platz. Die Decke kann ggf. soweit zusammengesch
 
 Alle Kinder stellen sich in einem großen Kreis auf, laufen dann aufeinander zu, bis alle dicht gedrängt stehen. Dann schließen sie die Augen, und fassen mit jeder Hand ein anderes Kind. Danach muß der Knoten wieder aufgemacht werden, bis wieder ein, oder mehrere Kreise entstehen, ohne die Hände zu lösen.
 
-*Sinn:* Koordination und Kommunikation führen zur Auflösung des (gordischen) Knotens
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Sinn",
+  [Koordination und Kommunikation führen zur Auflösung des (gordischen) Knotens]
+)
 
 == Tic Tac Toe
 #info(
@@ -144,7 +230,24 @@ Alle Kinder stellen sich in einem großen Kreis auf, laufen dann aufeinander zu,
 
 Es werden 9 Stühle aufgestellt: 3 Reihen mit jeweils 3 Stühlen. Es gibt 2 Mannschaften mit je 3 Spielern. Jetzt geht es nach Tic Tac Toe Regeln: Ein Schüler aus Mannschaft eins setzt sich auf einen Stuhl seiner Wahl, dann kommt einer aus Mannschaft 2 der das Gleiche macht. Dann wieder Mannschaft 2 usw. Wenn beide Mannschaften ihre 3 Spieler "platziert" haben, dürfen sie untereinander tauschen, aber immer abwechselnd Mannschaft 1 und 2! Gewonnen hat, wer als erster seine 3 Spieler in einer Reihe (senkrecht, waagrecht), oder Diagonal platziert hat. Das wichtige dabei!!!! KEINER darf ein Wort sagen auch nicht die zuschauenden Mitschüler. Und wenn ein Mitspieler etwas sagt, hat die Mannschaft verloren! Die Spieler unter sich müssen sich also mit Zeichensprache verständigen.Ist auch ein tolles Spiel um Ruhe in die Klasse zu bekommen.
 
-*Ziel:* Kommunikation ohne zu reden!
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Ziel",
+  [Kommunikation ohne zu reden!]
+)
 
 == Farbquadrate
 #info(
@@ -161,11 +264,27 @@ Bei dieser Variante gibt es folgendes zu beachten:
 - Schuhe könnten dreckig werden, ist mit den Teilnehmern zu klären.
 - Große und schwerere Personen trauen sich nicht auf kleine Füße zu steigen,\ *Stichwort Berührungsängste*
 Die Kreise der andersfarbigen Gruppe dürfen nur genutzt werden, wenn eine Person in diesem Kreis steht. Hier gilt es zu beachten, dass man sehr genau darauf achten muss, wer wirklich nun zu der Farbe des Kreises gehört. Es wird schnell unübersichtlich und schwer kontrollierbar. Die Kreise der anders farbeigen Gruppe dürfen nur genutzt werden, wenn die Person in dem Kreis einen Gegenstand in der Hand hält. Jede Farbe hat 1-2 dies er vorher festgelegten Gegenstände in der Hand.\ \
-*Varianten / Erweiterungen:*\
-Wenn ungefähr die Hälfte des Feldes erreicht ist, kann eine Insel eingebaut werden. Folgende Regelerweiterungen sind denkbar:
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Varianten / Erweiterungen",
+  [Wenn ungefähr die Hälfte des Feldes erreicht ist, kann eine Insel eingebaut werden. Folgende Regelerweiterungen sind denkbar:
 - Sobald die erste Person einen Fuß auf die Insel gesetzt hat, darf nicht mehr mit Worten oder Lauten kommuniziert werden.
 - Da oftmals eine Gruppe ohne auf die Anderen zuachten schnell ins Ziel gelangen will, ist diese Variante sehr gut geeignet um das ThemaTeamarbeit, aufeinander achten, Egozentrismus zubesprechen.
-- Sobald die erstePerson einen Fuß von der Insel gesetzt hat, darfnicht mehr mit Worten oderLauten kommuniziert werden. Hier hätte dieGruppe Zeit um eine Planungsphase einzulegen.
+- Sobald die erstePerson einen Fuß von der Insel gesetzt hat, darfnicht mehr mit Worten oderLauten kommuniziert werden. Hier hätte dieGruppe Zeit um eine Planungsphase einzulegen.]
+)
 == Seildurchlauf
 #info(
   groesse: "5-35 Spieler*innen",
@@ -193,11 +312,29 @@ Stufe 5: die gesamte Gruppe\
 *Regeln:*\
 - Wird das Seil berührt, müssen alle Personen zurück auf die Ausgangsseite
 - Müssen die Personen, die das Seil schwingen, das Seil loslassen, um nicht die Person zum Fallen zu bringen, müssen alle wieder in ihre Ausgangsposition zurück
-*Varianten / Erweiterungen:*\
-Weitere Möglichkeiten für die Stufen:
+
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Varianten / Erweiterungen",
+  [Weitere Möglichkeiten für die Stufen:
 - Gemischtgeschlechtliche Gruppen
 - immer abwechselnd Junge –Mädchen –Junge –Mädchen, soweit wie es aufkommt
-- Bei großen Gruppen, macht es u.U. Sinn zunächst 3 gleich große Gruppen bilden zu lassen, bevor sich die Gruppe in 2 Gruppen teilen soll
+- Bei großen Gruppen, macht es u.U. Sinn zunächst 3 gleich große Gruppen bilden zu lassen, bevor sich die Gruppe in 2 Gruppen teilen soll]
+)
+
 
 == Moorpfad
 #info(
@@ -209,14 +346,29 @@ Weitere Möglichkeiten für die Stufen:
 Ein durch eine Start-und eine Ziellinie markiertes Feld(welches das Moor bzw. der Weg bis zur rettenden Insel darstellt), muss von der ganzen Gruppe überquert werden. Als Hilfsmittel dienen Getränkekisten oder Teppichfliesen. Keine der Personen darf das Moorberühren bzw. aus dem Flugzeug fallen (je nachdem welche Rahmengeschichte man erzählen möchte) Die Länge des Feldes ist so zu wählen, dass selbst wenn alle Teppichfliesen bzw. Kisten aufgestellt sind, das 
 gegenüberliegende Ziel noch nicht erreicht werden kann. Die Aufgabe ist geschafft, sobald die letzte Person das rettende Ziel erreicht hat
 
-*Weitere Schwierigkeitsgrade:*\
-- Es darf nicht gesprochen werden
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Weitere Schwierigkeitsgrade",
+  [- Es darf nicht gesprochen werden
 - Die Teppichfliesen / Kisten müssen vollzählig auf die andere Seite mitgebracht werden
 - Zeitlimit (z.B. muss die letzte Person aus der Gruppe den Startbereich nach spät. X Minuten verlassen haben)
 - Berührt eine das Moor muss die Gruppe mit den zu diesem Zeitpunkt zur Verfügung stehenden Fliesen von vorne beginnen
 - Es gibt Augenbinden für die Person die das Moor betreten hat
-- Sobald die Kiste bzw. die Teppichfliese nicht festgehalten wird, verliert die Gruppe diese Kiste bzw.Fliese (Hintergrund: Die Moorgeister klauen sich gerne die Kisten bzw. der Luftstrom, des Flugzeuges reißt die Teile weg)
-#pagebreak()
+- Sobald die Kiste bzw. die Teppichfliese nicht festgehalten wird, verliert die Gruppe diese Kiste bzw.Fliese (Hintergrund: Die Moorgeister klauen sich gerne die Kisten bzw. der Luftstrom, des Flugzeuges reißt die Teile weg)]
+)
 == Kartensortieren
 #info(
   groesse: "ab 2 Spieler*innen",
@@ -256,8 +408,24 @@ Ziel der Aufgabe ist es, den Stab auf den Boden abzulegen.Dazu stellen sich die 
 *Achtung!!!*\
 Diese Aufgabe birgt erhebliches Konfliktmaterial! Nahezu immer ist zu beobachten, dass der Stab wie von Zauberhand nach oben getragen wird. Das ist oftmals für die Teilnehmenden so unverständlich, dass die Frustrationstoleranz grenze schnell erreicht ist!
 
-*Weitere Schwierigkeitsgrade:*\
-Um die Aufgabe schwieriger zu gestalten, kann am Anfang der Spielleiter mit am Stab stehen und diesen mit ein klein wenig Druck nach unten festhalten und dann das Startsignal geben. Der hierdurch von den Teilnehmer erzeugte Gegendruck bewirkt, dass der Stab augenblicklich nach oben gedrückt wird,sobald der Anleiter den Finger vom Stab nimmt.Zusätzlich können an jedes Ende zwei Ringe auf den Stab gelegt werden. Wenn diese herunterfallen (z.B.weil der Stab nicht gerade abgelegt wurde), ist die Aufgabe ebenfalls nicht bewältigt.
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Weitere Schwierigkeitsgrade",
+  [Um die Aufgabe schwieriger zu gestalten, kann am Anfang der Spielleiter mit am Stab stehen und diesen mit ein klein wenig Druck nach unten festhalten und dann das Startsignal geben. Der hierdurch von den Teilnehmer erzeugte Gegendruck bewirkt, dass der Stab augenblicklich nach oben gedrückt wird,sobald der Anleiter den Finger vom Stab nimmt.Zusätzlich können an jedes Ende zwei Ringe auf den Stab gelegt werden. Wenn diese herunterfallen (z.B.weil der Stab nicht gerade abgelegt wurde), ist die Aufgabe ebenfalls nicht bewältigt.]
+)
 
 == Geheimpfad
 #info(
@@ -272,19 +440,54 @@ ungefähr gleich groß und bieten genügend Platz, damit eine Person mit beiden 
 *Generelle Regel:*\
 Nur eine Person aus der Gruppe darf an die Startlinie treten und eines der Felder ausprobieren. Ist das richtige Feld ausgewählt, darf die Person ein weiteres Feld versuchen heraus zu finden. Sobald sie in ein falsches Feldtritt, muss sie den Geheimpfad verlassen. Es gibt immer nur die Möglichkeit geradeaus, links, oder rechts zu gehen. (Dies kann natürlich auch angepasst werden, erhöht aber den Schwierigkeitsgrad)
 \ \
-*Varianten für Gruppe:*\
--  Die Gruppe darf sich um das Feld herum aufstellen und direkt helfen.
-- Die Gruppe muss sich im Nebenraum aufhalten und es kommt immer nur eine Person zum Feld.
-Zu 1: Hier kann man sich wieder rum entscheiden. Darf die Gruppe per Sprache Hilfestellung geben (leichtere Variante),oder hat sie lediglich eine gewisse Zeit zur Planung und muss dann während der Aktion still sein? Zu 2: Geht unter Umständen nur, wenn man zu zweit anleiten kann und die Gruppe im Nebenraum beaufsichtigt werden kann.Auch hier darf man sich entschieden ob die Gruppe sich Hilfestellung, z.B: Blatt Papier und Stift holt, oder dieses untersagt ist (schwierigste Variante)
 
-*Variante zum Umgang mit Fehlversuchen:*
-- Es wird ein falsches Feld betreten, welches aber schon als falsches Feld bekannt war.
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Varianten für Gruppe",
+  [-  Die Gruppe darf sich um das Feld herum aufstellen und direkt helfen.
+- Die Gruppe muss sich im Nebenraum aufhalten und es kommt immer nur eine Person zum Feld.
+Zu 1: Hier kann man sich wieder rum entscheiden. Darf die Gruppe per Sprache Hilfestellung geben (leichtere Variante),oder hat sie lediglich eine gewisse Zeit zur Planung und muss dann während der Aktion still sein? Zu 2: Geht unter Umständen nur, wenn man zu zweit anleiten kann und die Gruppe im Nebenraum beaufsichtigt werden kann.Auch hier darf man sich entschieden ob die Gruppe sich Hilfestellung, z.B: Blatt Papier und Stift holt, oder dieses untersagt ist (schwierigste Variante)]
+)
+
+
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variante zum Umgang mit Fehlversuchen",
+  [- Es wird ein falsches Feld betreten, welches aber schon als falsches Feld bekannt war.
 - Generell sollte bei der Variante 1 (s. oben) etwas weniger Spielraum im Umgang mit Fehlversuchen gewählt werden.
 \ *Hier einige Möglichkeiten:*\
 - Es gibt bei Fehlversuchen keine weiteren Konsequenzen (außer der, dass die Person aus dem Labyrinth herausmuss.)
 - Pro Fehlversuch bekommt die Gruppe einen Strich bei einem Strichmännchen. Sobald es hängt, hat die Gruppe die Aufgabe verloren.
 - Speziell für die Variante, wenn die Gruppe per Sprache helfen darf. Es gibt nur einen Fehlversuch.
-Sollte dir Gruppe scheitern, gibt es die Möglichkeit nach Besprechung über die Gründe einen weiteren Besuch zur Verfügung zu stellen. Bedingung hierbei, es gibt einen neuen Weg der heraus zu finden ist.
+Sollte dir Gruppe scheitern, gibt es die Möglichkeit nach Besprechung über die Gründe einen weiteren Besuch zur Verfügung zu stellen. Bedingung hierbei, es gibt einen neuen Weg der heraus zu finden ist.]
+)
+
 == Gemeinsamer Kreis
 #info(
   groesse: "ab 1 Spieler*innen",

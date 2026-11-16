@@ -10,6 +10,7 @@
   v(0.8em)
 }
 #import "../template.typ": kapitel_seite
+#import "@preview/showybox:2.0.4": showybox
 #kapitel_seite("Rätzel", image("../Bilder Kapitel/Rätzel.png"))
 #set page(header: context {
     // 1. Aktuelle Seitenzahl holen
@@ -32,7 +33,23 @@
       }
     }
   })
-
+#showybox(
+  frame: (
+    border-color: red.darken(50%),
+    title-color: red.lighten(60%),
+    body-color: red.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Wichtig!",
+  [In diesen Kapitel findet ihr zu den Rätzlen auch immer die Lösung. Bitte lest diese nicht, bevor ihr das Rätsel selbst gelöst habt!]
+)
 == Dreiecke
 *Ablauf:* \
 Der Spielleiter zieht wiederholt "Dreiecke" zwischen den Mitspielern, Gegenständen oder Punkten im Raum. 
@@ -40,8 +57,24 @@ Der Spielleiter zieht wiederholt "Dreiecke" zwischen den Mitspielern, Gegenstän
 *Beispiel:* \
 "Ich ziehe ein Dreieck von Markus über Eva zu Stefan. Wem gehört das Dreieck?"
 
-*Lösung:* \
-Das Dreieck gehört der Person, die als erstes spricht, nachdem das Dreieck komplett "gezogen" wurde.
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Lösung",
+  [Das Dreieck gehört der Person, die als erstes spricht, nachdem das Dreieck komplett "gezogen" wurde.]
+)
 
 == I can see the moon in the spoon
 *Ablauf:* \
@@ -51,40 +84,120 @@ Das Dreieck gehört der Person, die als erstes spricht, nachdem das Dreieck komp
 
 Anschließend gibt er den Löffel weiter. Diejenigen, die das Spiel bereits kennen, geben dann bekannt, ob er den Mond wirklich gesehen hat, oder ob diese eine Lüge ist. \
 
-*Lösung:* \
-Wichtig ist, ob dem Übergeber des Löffels gedankt wurde! Nur wer sich ordentlich bedankt, wenn er den Löffel erhält, wird auch den Mond im Löffel sehen können. Was die Gruppe dabei als Bedanken akzeptiert, ist ihr überlassen, sollte aber (möglichst) eindeutig sein.
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Lösung",
+  [Wichtig ist, ob dem Übergeber des Löffels gedankt wurde! Nur wer sich ordentlich bedankt, wenn er den Löffel erhält, wird auch den Mond im Löffel sehen können. Was die Gruppe dabei als Bedanken akzeptiert, ist ihr überlassen, sollte aber (möglichst) eindeutig sein.]
+)
 
 == Irrenhaus
 *Ablauf:* \
 \Die nicht eingeweihten Spieler sind die Irrenärzte, die bereits wissenden Spieler stellen die Irren dar. Die Ärzte dürfen Fragen stellen, jeweils ein Irrer antwortet drauf. Die Antwort klingt dabei meist so, als wäre sie Schwachsinn. Tatsächlich steckt aber System dahinter! Jeder, der beweisen kann, das System zu kennen, darf auch zum Irren werden. Natürlich wird die Lösung nicht erraten, sondern die Spieler müssen durch aktives Tun beweisen, das Wissen zu besitzen.
 
-*Lösung:* \
-Die Irren beantworten jeweils die vorangegangene Frage (oder, bei sehr kleveren Spielern, noch weiter zurück liegende Fragen). Die erste Frage wird mit einer möglichst lustigen und unsinnigen Antwort beantwortet.
 
-*Varianten:*\
-Wie heißt du? → Raumschiff Enterprise (zufällige Antwort) \
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Lösung",
+  [Die Irren beantworten jeweils die vorangegangene Frage (oder, bei sehr kleveren Spielern, noch weiter zurück liegende Fragen). Die erste Frage wird mit einer möglichst lustigen und unsinnigen Antwort beantwortet.]
+)
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [Wie heißt du? → Raumschiff Enterprise (zufällige Antwort) \
 Wie viel ist drei mal vier $->$ Christian (Antwort auf Frage 1) \
 Wie heißt die Hauptstadt von Deutschland $->$ zwölf (Antwort auf Frage 2) \
 und so weiter \
-Alternativ können auch andere Systeme benutzt werden, beispielsweise Antworten mit nur einem Wort oder beginnend mit dem jeweils nächsten Buchstaben des Alphabets, etc
+Alternativ können auch andere Systeme benutzt werden, beispielsweise Antworten mit nur einem Wort oder beginnend mit dem jeweils nächsten Buchstaben des Alphabets, etc]
+)
+
 
 == Flasche auf, Flasche zu
 *Ablauf:* \
 Eine Flasche wird im Kreis herumgegeben. Der Übergebende sagt jeweils, ob die Flasche "offen" oder "zu" ist. Die Wissenden bestätigen oder korrigieren die Aussage.
 
-*Lösung:* \
-Es geht nicht um den Deckel der Flasche. Entscheidend ist, ob der Übergebende beim Sprechen den Mund offen oder geschlossen hält (oder die Beine überschlagen hat – je nach vereinbarter Variante). Meistens: Mund offen nach dem Satz = Flasche offen.
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Lösung",
+  [Es geht nicht um den Deckel der Flasche. Entscheidend ist, ob der Übergebende beim Sprechen den Mund offen oder geschlossen hält (oder die Beine überschlagen hat – je nach vereinbarter Variante). Meistens: Mund offen nach dem Satz = Flasche offen.]
+)
 
 == Drache töten
 *Ablauf:* \
  Verraten sollten die Spieler, welche die Lösung für dieses Ratespiel gefunden haben, diese natürlich nicht, um den Spielspaß möglichst lange aufrecht zu halten. Denn die Teilnehmer sitzen zu Beginn des Spiels im Kreis um den Spielleiter, der als einziger die Lösung kennt. Die Spieler müssen nämlich erraten, wie sich ein Drache am besten töten lässt.
 
-*Lösung:* \
-Was sie zu Beginn des Spiels nicht wissen: Es kommt auf den Anfangsbuchstaben des Gegenstandes, den sie nennen, an. Denkbar sind also auch scheinbar unsinnige Kombinationen wie D-egen, R-egenschirm, -A-ugapfel, C-haos, H-unger, E-mmentaler, D-ynamit. Nach einem Fehlversuch beginnt die Raterunde von Neuem. Das Spiel dauert so lange, bis ausreichend Spieler das System durchschaut haben, mit dem sie den Drachen töten können.\
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Lösung",
+  [Was sie zu Beginn des Spiels nicht wissen: Es kommt auf den Anfangsbuchstaben des Gegenstandes, den sie nennen, an. Denkbar sind also auch scheinbar unsinnige Kombinationen wie D-egen, R-egenschirm, -A-ugapfel, C-haos, H-unger, E-mmentaler, D-ynamit. Nach einem Fehlversuch beginnt die Raterunde von Neuem. Das Spiel dauert so lange, bis ausreichend Spieler das System durchschaut haben, mit dem sie den Drachen töten können.\
 
  Weil es jüngeren Teilnehmern wohl etwas schwer fallen dürfte, das System zu durchschauen, eignet sich dieses Spiel vor allem für Gruppen gemischten Alters oder mit älteren Teilnehmern. Sie lernen dabei auf eine lustige Art eine Fähigkeit, die ihnen im späteren Leben von großem Nutzen sein kann, nämlich Kombinationsgabe und auch die Fähigkeit, abstrakt zu denken. Schließlich haben Begriffe wie beispielsweise Augapfel oder Hunger rein gar nichts mit den Rittersagen aus dem Mittelalter, in welchen stolze Recken furchterregende Drachen getötet haben, zu tun. Trotzdem tragen diese Begriffe zur Lösung des Rätsels bei.\
 
-Die Teilnehmer müssen also erst einmal das System durchschauen und anschließend die richtigen Begriffe finden, wobei Letzteres dann vergleichsweise einsam ist. Sind jüngere Teilnehmer in der Runde, die aufgrund ihrer geistigen Entwicklung noch nicht in der Lage sind, das System, welches hinter diesem Spiel steckt, zu durchschauen, sollte der Spielleiter ihnen dies auf kindgerechte Weise vermitteln. Er kann die Erklärung aber unter Umständen auch so vermitteln, dass die Teilnehmer von selbst auf des Rätsels Lösung kommen.
+Die Teilnehmer müssen also erst einmal das System durchschauen und anschließend die richtigen Begriffe finden, wobei Letzteres dann vergleichsweise einsam ist. Sind jüngere Teilnehmer in der Runde, die aufgrund ihrer geistigen Entwicklung noch nicht in der Lage sind, das System, welches hinter diesem Spiel steckt, zu durchschauen, sollte der Spielleiter ihnen dies auf kindgerechte Weise vermitteln. Er kann die Erklärung aber unter Umständen auch so vermitteln, dass die Teilnehmer von selbst auf des Rätsels Lösung kommen.]
+)
 
 
 
@@ -92,22 +205,70 @@ Die Teilnehmer müssen also erst einmal das System durchschauen und anschließen
 *Ablauf:* \
 Der Spielleiter sagt: "Ich gehe ins Kaufhaus. Dort gehe ich in den (X). Stock (links/rechts) und kaufe mir ein (Gegenstand)."
 
-*Lösung:* \
-Die Stockwerke und die Richtung beschreiben die Mitspieler im Kreis. "2. Stock links" ist die zweite Person links vom Fragesteller. Der Gegenstand, den man dort kauft, muss ein Merkmal dieser Person sein (z.B. die Farbe des T-Shirts oder eine Brille). "0. Stock" ist man selbst.
+
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Lösung",
+  [Die Stockwerke und die Richtung beschreiben die Mitspieler im Kreis. "2. Stock links" ist die zweite Person links vom Fragesteller. Der Gegenstand, den man dort kauft, muss ein Merkmal dieser Person sein (z.B. die Farbe des T-Shirts oder eine Brille). "0. Stock" ist man selbst.]
+)
 
 == Türsteher
 *Beispiel:* \
 "Ich gehe in den Club und bringe dem Türsteher ein Bild von meiner Oma mit – und ich komme rein."
 
-*Lösung:* \
-Der Inhalt ist zweitrangig. Wichtig ist nur, dass der Satz exakt mit "Ich gehe in den Club..." beginnt und mit "...und ich komme rein" endet. Oft wird als zusätzliche Regel eingebaut, dass der Gegenstand etwas mit einer Zeitschrift oder Zeitung zu tun haben muss.
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Lösung",
+  [Der Inhalt ist zweitrangig. Wichtig ist nur, dass der Satz exakt mit "Ich gehe in den Club..." beginnt und mit "...und ich komme rein" endet. Oft wird als zusätzliche Regel eingebaut, dass der Gegenstand etwas mit einer Zeitschrift oder Zeitung zu tun haben muss.]
+)
 
 == Insel Kein-i-Kein-u
 *Ablauf:* \
 Die Mitspieler packen ihren Koffer für das "Keinikeinuland". Der Spielleiter entscheidet, wer mitdarf.
 
-*Lösung:* \
-Wie der Name sagt: Man darf nur Gegenstände mitnehmen, in deren Namen weder der Buchstabe "i" noch der Buchstabe "u" vorkommt.
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Lösung",
+  [Wie der Name sagt: Man darf nur Gegenstände mitnehmen, in deren Namen weder der Buchstabe "i" noch der Buchstabe "u" vorkommt.]
+)
 
 == Maus-Maus-Elefant
 *Ablauf:* \
@@ -132,13 +293,29 @@ Ein Spieler zeigt eine Bewegungsabfolge an den Fingern vor und spricht dazu eine
   [Maus], [tippt auf kleinen Finger],
   [Und jetzt mach's nach!], [(Wichtig: Die Endhaltung der Hände beachten)]
 ))
-#pagebreak()
+
 == Zug Fahren
 *Ablauf* \
 Spieler die das Spiel kennen lassen wiederholt Züge von einen Punkt zu ein anderen Punkt fahren. Dafür sagen sie: "Ok, mein Zug fährt von (x) nach (Y) und mein Zug fährt." 
 
-*Lösung:* \
-Damit der Zug fährt muss der Spieler als erstes Wort "OK" sagen.
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Lösung",
+  [Damit der Zug fährt muss der Spieler als erstes Wort "OK" sagen.]
+)
 
 == Die Addamsfamily
 Die Spielerinnen und Spieler, die das Spiel bereits kennen, stellen sich in einem Kreis auf. Alle übrigen warten außerhalb der Hörweite, sodass sie den Ablauf nicht beobachten oder mithören können. Anschließend wird jeweils eine Person in die Mitte des Kreises gebeten.

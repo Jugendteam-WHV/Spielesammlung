@@ -11,6 +11,7 @@
 }
 #set page(header: none)
 #import "../template.typ": kapitel_seite
+#import "@preview/showybox:2.0.4": showybox
 
 #kapitel_seite("Spiele zur Gruppeneinteilung", image("../Bilder Kapitel/Speile zur Gruppeneinteilung.png"))
 #set page(header: context {
@@ -39,8 +40,24 @@
 #info(alter: "6", groesse: "8-50", material:  "Evtl. Musikanlage, mehrere Decken zum drauflegen")
 Die Spieler bewegen sich über die Spielfläche und sind freie Atome. Der Spielleiter ruft eine Atomanzahl. Genau diese Anzahl an Atomen muss sich zu Molekülen verbinden. Die gerufene Zahl bestimmt die Gruppengröße für das nächste Spiel.\
 \
-*Variation*: \
-Die Gruppen sollen sich immer unter unterschiedlich vielen Decken verstecken. Dabei sollte unter jeder Decke die gleiche Anzahl an Spielern stehen. \
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [Die Gruppen sollen sich immer unter unterschiedlich vielen Decken verstecken. Dabei sollte unter jeder Decke die gleiche Anzahl an Spielern stehen.]
+)
 
 == Familie Meyer
 #info(groesse: "6-30", alter: "8", material: "Vorbereitet Zettel mit Namen")
@@ -121,8 +138,24 @@ Der Spielleiter*in zählt je nach Gruppengröße im Kreis alle Teilnehmer*Innen 
 )
 Es sollen berühmte Paare gefunden werden, jeder TN bekommt einen Zettel mit einem Prominenten Teilpärchen. Die Karten werden getauscht, solange die Musik läuft, danach müssen sich die Paare finden.
 
-*Varianten:* \
-Die Pärchen müssen sich, wenn sie sich gefunden haben, auf den Boden setzen. Das letzte Pärchen scheidet aus. So entsteht eine neue Form des Spieles.
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [Die Pärchen müssen sich, wenn sie sich gefunden haben, auf den Boden setzen. Das letzte Pärchen scheidet aus. So entsteht eine neue Form des Spieles.]
+)
 
 == Kartenverteilen
 #info(
@@ -136,4 +169,20 @@ Jeder Mitspieler zieht eine Karte. Je nach gewünschter Gruppengröße gibt es f
 - Alle Karos/Piks/Herzen/Kreuze bilden eine Gruppe
 - Alle Siebener, Achter, Neuner, etc. bilden eine Gruppe
 
-*Wichtig*: vorher die Karten auf die Gesamtgruppengröße anpassen, so dass das Prinzip Zufall keine Chance mehr hat
+#showybox(
+  frame: (
+    border-color: red.darken(50%),
+    title-color: red.lighten(60%),
+    body-color: red.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Wichtig!",
+  [vorher die Karten auf die Gesamtgruppengröße anpassen, so dass das Prinzip Zufall keine Chance mehr hat]
+)

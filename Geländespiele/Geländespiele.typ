@@ -11,6 +11,7 @@
 }
 #set page(header: none)
 #import "../template.typ": kapitel_seite
+#import "@preview/showybox:2.0.4": showybox
 #kapitel_seite("Geländespiel", image("../Bilder Kapitel/Geländespiele.png"))
 #set page(header: context {
     // 1. Aktuelle Seitenzahl holen
@@ -127,13 +128,45 @@ Es wird eine Person aus der Gruppe bestimmt, die zum Contacto wird. Der Contacto
 
  Bierdeckel als Bomben! Jedes Team sollte mindestens 6-8 Bomben abgeben können, jedes Kind sollte die Chance haben, mindestens eine zu finden; wir müssen davon ausgehen, dass nicht alle gefunden werden ! 40-60 Bomben
 
-*Verboten:*
-- Bomben in Taschen verstecken
+
+#showybox(
+  frame: (
+    border-color: red.darken(50%),
+    title-color: red.lighten(60%),
+    body-color: red.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Verboten",
+  [- Bomben in Taschen verstecken
 - Weiterlaufen ohne Heilung
 - Verletzte Kinder ticken
-- Jäger: Katzenwachen vor Sammelpunkten
-*Vorbereitung:*
-\ Bomben müssen von uns vorher im Wald deponiert werden
+- Jäger: Katzenwachen vor Sammelpunkten]
+)
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Vorbereitung",
+  [Bomben müssen von uns vorher im Wald deponiert werden.]
+)
+
 == Burg erobern
 #info(
   groesse: "ab 10 Spieler*innen",
@@ -230,8 +263,25 @@ Die Schmuggler müssen ihre Schmuggelware von einem Startpunkt zu einem festgele
 - Die Grenzer dürfen sich im gesamten Spielgebiet bewegen, mit Ausnahme zweier eindeutig markierter Schutzzonen um Start-und Zielpunkt. Hat ein Grenzer einen Schmuggler abgeschlagen und dessen Schmuggelgut beschlagnahmt, darf er keine weiteren Schmuggler abschlagen, bis er das beschlagnahmte Schmuggelgut bei einem zweiten Sammelplatz abgegeben hat, wo ein Helfer die Punkte der Grenzer notiert. 
 - Ein Helfer gibt am Startpunkt das Schmuggelgut aus, zwei andere sammeln es jeweils für Schmuggler und Grenzer wieder ein und mindestens zwei weitere Helfer durchstreifen das Gelände und achten auf die Einhaltung der Regeln.
 Nach Ablauf der 30 Minuten wird die über die Grenze gebrachte und die beschlagnahmte Schmuggelware gezählt, danach wechseln die Teams die Rollen und es geht in die "zweite" Halbzeit.\
-*Varianten:*\
-Das Spiel kann auch im Dunkeln gespielt werden. Die Grenzer haben dann Taschenlampen, die Schmuggler nicht. Ein Grenzer hat einen Schmuggler gefunden, wenn er ihn an leuchtet und seinen Namen ruft, abschlagen ist nicht nötig. Die Helfer, die Schmuggelgut ausgeben und einsammeln, haben einen Blinker, damit sie leichter zu finden sind.
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [Das Spiel kann auch im Dunkeln gespielt werden. Die Grenzer haben dann Taschenlampen, die Schmuggler nicht. Ein Grenzer hat einen Schmuggler gefunden, wenn er ihn an leuchtet und seinen Namen ruft, abschlagen ist nicht nötig. Die Helfer, die Schmuggelgut ausgeben und einsammeln, haben einen Blinker, damit sie leichter zu finden sind.]
+)
+
 == Schmugglerspiel 2 mit Papierstreifen
 #info(
   groesse: "6-40 Spieler*innen",
@@ -261,7 +311,23 @@ Dämmerung im Sommer. Bei diesem Nacht-Geländespiel spielen ausnahmsweise nicht
 
 Die Spieler machen sich im Gelände auf die Socken und versuchen mit dem Lichtkegel der Taschenlampe andere Spieler zu erwischen, möglichst ohne dabei selbst erwischt zu werden. Jeder, der angeleuchtet wird, muss dem entsprechenden Gegenspieler einen Kreppstreifen von sich abgeben.
 
-*Achtung:* in dem Moment der Übergabe des Kreppstreifens darf man die beiden Spieler nicht anleuchten.
+#showybox(
+  frame: (
+    border-color: red.darken(50%),
+    title-color: red.lighten(60%),
+    body-color: red.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Achtung",
+  [in dem Moment der Übergabe des Kreppstreifens darf man die beiden Spieler nicht anleuchten.]
+)
 
 Am Ende der Spielzeit werden dann die Kreppstreifen gezählt und die Spieler mit den meisten Streifen haben gewonnen.
 

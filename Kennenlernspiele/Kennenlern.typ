@@ -11,6 +11,7 @@
 }
 #set page(header: none)
 #import "../template.typ": kapitel_seite
+#import "@preview/showybox:2.0.4": showybox
 #kapitel_seite("Kennenlernspiele", image("../Bilder Kapitel/Kennelernen.png"))
 #set page(header: context {
     // 1. Aktuelle Seitenzahl holen
@@ -100,8 +101,25 @@ Alle Personen setzen sich in einem Kreis zusammen, je mehr, desto besser. Der Er
 )
 Einer steht in der Mitte. Er deutet auf jemanden im Kreis und sagt "Zip". Der Angesprochene muss seinen linken Nachbarn nennen.Bei Zap seinen Rechten.Wer zu lange zögert oder gar einen Fehler macht, muss in die Mitte.
 
-*Varianten:* \
-Bei "ZipZap" müssen alle die Plätze tauschen, auch der TN in der Mitte darf versuchen einen Platz zu bekommen. Wer übrigbleibt, bleibt mittig. "ZipZip" bedeutet zwei weiter links.
+
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [Bei "ZipZap" müssen alle die Plätze tauschen, auch der TN in der Mitte darf versuchen einen Platz zu bekommen. Wer übrigbleibt, bleibt mittig. "ZipZip" bedeutet zwei weiter links.]
+)
 
 == Alle die...
 #info(
@@ -152,7 +170,24 @@ Spiel wie zuvor, jedoch anstatt Papierblätter zu nehmen, nimmt sich jeder eine 
 )
  Auf Kommando muss jede Gruppe sich so schnell wie möglich in die richtige Reihenfolge stellen. z.B.: alphabetisch sortiert nach dem ersten oder zweiten Vornamen, nach der Größe, nach dem Alter, nach Schuhgröße.
 
-*Variante:* Wie zuvor, jedoch nun darf nicht gesprochen werden.
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [Wie zuvor, jedoch nun darf nicht gesprochen werden.]
+)
 
 == Spinnennetz
 #info(

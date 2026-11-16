@@ -11,6 +11,7 @@
 }
 #set page(header: none)
 #import "../template.typ": kapitel_seite
+#import "@preview/showybox:2.0.4": showybox
 #kapitel_seite("Bewegungspiele", image("../Bilder Kapitel/Bewegungsspiele.png"))
 #set page(header: context {
     // 1. Aktuelle Seitenzahl holen
@@ -73,7 +74,25 @@ Alle Spieler starten mit der ersten Evolutionsstufe und laufen herum. Treffen si
   material: "Kein Material nötig"
 )
 Ein Spieler ist der erste Ticker und muss andere Spieler versuchen zu fangen.  Alle anderen laufen dabei weg. Wird ein Spieler gefangen, so müssen sich die Beiden „aneinander ketten“ (d.h. sie halten sich an den Händen fest). Die „Kette“ (die beiden Spieler) muss jetzt versuchen andere Spieler zu fangen, dabei dürfen sie sich nicht loslassen. Die „Kette“ wird durch jeden gefangenen Spielerlänger, bis nur noch eine Person überbleibt und dann eine neue Spielrunde beginnt.  \´\
-*Variation:* \ Eine Kette besteht maximal aus drei Personen. Kommt eine vierte Person hinzu, teilt sich die Gruppe in zwei 2er Gruppen. Jetzt ticken zwei Ketten.
+
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [Eine Kette besteht maximal aus drei Personen. Kommt eine vierte Person hinzu, teilt sich die Gruppe in zwei 2er Gruppen. Jetzt ticken zwei Ketten.]
+)
 
 == Zombieball
 #info(
@@ -94,7 +113,24 @@ Ein Spieler ist der erste Ticker und muss andere Spieler versuchen zu fangen.  A
 
 Rollen zum Spiel: Riesen:Sie stellen sich auf Zehenspitzen, strecken die Arme in die Luft, schauen grimmig und brüllen laut: „Riesen!“ Elfen:Elfen machen sich klein, ziehen die Schulter ein und flüstern ganz leise:  „Elfen“ Zauberer:Sie haben einen buckligen Rücken, magischen Blick und zischen mit verzaubernden Gesten „Zauberer!“\
 
-Wichtig: Die Riesen sind stärker als die Elfen; die Elfen sind stärker als die Zauberer; die Zauberer sind stärker als die Riesen
+
+#showybox(
+  frame: (
+    border-color: red.darken(50%),
+    title-color: red.lighten(60%),
+    body-color: red.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Wichtig!",
+  [Die Riesen sind stärker als die Elfen; die Elfen sind stärker als die Zauberer; die Zauberer sind stärker als die Riesen]
+)
 
 == Kegelfußball
 #info(
@@ -104,7 +140,25 @@ Wichtig: Die Riesen sind stärker als die Elfen; die Elfen sind stärker als die
 )
 Jedes Kind erhält einen Kegel. Alle Mitspieler verteilen sich in der Halle und stellen ihre Kegel dort ab. Nun legt der Spielleiter einen Fußball in die Mitte der Halle und eröffnet das Spiel. Bei vielen Spielern kann man auch zwei oder drei Bälle einsetzen. Nun versucht jeder Spieler die Kegel der anderen Mitspieler um zuschießen. Fällt der eigene Kegel um, ist man ausgeschieden. Ebenfalls scheidet man aus, wenn man seinen eigenen Kegel, z.B. aus Versehen beim Verteidigen, umstößt. Am Ende bleiben nur noch 2 Spieler übrig. Gewonnen hat derjenige, dessen Kegel am Ende noch steht.
  \
- *Variation:* \ Das Spiel kann man auch gegeneinander spielen. Es werden zwei Teams gebildet und man stellt die Kegel gegenüber voneinander auf (z.B. in einem Abstand von 6m). Beide Teams versuchen die Kegel der gegnerischen Mannschaft um zuschießen. Gewonnen hat die Mannschaft, die zuerst alle Kegel der gegnerischen Mannschaft um geschossen hat.\
+
+
+ #showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [Das Spiel kann man auch gegeneinander spielen. Es werden zwei Teams gebildet und man stellt die Kegel gegenüber voneinander auf (z.B. in einem Abstand von 6m). Beide Teams versuchen die Kegel der gegnerischen Mannschaft um zuschießen. Gewonnen hat die Mannschaft, die zuerst alle Kegel der gegnerischen Mannschaft um geschossen hat.]
+)
 
 
 == Buchstabenbelegen
@@ -124,8 +178,26 @@ Die Gesamtgruppe wird in Kleingruppen (4-6 Personen) getrennt. Jede Klein Gruppe
 Zur Vorbereitung werden alle Karten des Spiels verdeckt in der Mitte der Halle gelegt. Die Spieler stehen in 4 Gruppen an jeder Ecke der Halle und erhalten durch Losentscheid eine der 4 Asse (Karo, Herz, Kreuz oder Pik).
 Auf Kommando beginnt das Spiel. Der jeweils Erste jeder Gruppe läuft in die Mitte und dreht eine beliebige Karte um. Ist sie von seiner Farbe, darf er sie mitnehmen. Ist die Karte nicht von seiner Farbe, dreht er sie wieder um. Er sprintet zurück zu seiner Gruppe, schlägt per Handschlag ab und der nächste Läufer darf starten. Das wiederholt sich in jeder Gruppe solange, bis alle Karten einer Farbe gesammelt wurden (2, 3, 4, 5, 6, 7, 8, 9, 10, Bube, Dame, König und Ass). Sieger ist die Mannschaft, welche zuerst alle Karten ihrer Farbe komplett hat.
  \ \
-* Variante 1:* \ Es wird mit weniger Karten gespielt.\
- *Variante 2:* \ Es muss der Reihe nach gesammelt werden (Straße). ACHTUNG: dauert sehr lange und ist eher für Ältere gedacht.
+
+
+ #showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variationen",
+  [1. Es wird mit weniger Karten gespielt.],
+  [2. Es muss der Reihe nach gesammelt werden (Straße). ACHTUNG: dauert sehr lange und ist eher für Ältere gedacht.]
+)
 
 == Cola, Fanta, Sprite
 #info(
@@ -166,7 +238,25 @@ Alle Spieler sind Flöhe. Einer davon ist der Fänger, ihm werden die Augen verb
   material: "Absperrband, Socke mit Ball"
 )
  Es wird ein Spielfeld abgesteckt ca. 10x10 Meter. Jeder Spieler bekommt eine Nummer zugeordnet, am besten auf einen Kreppklebestreifen schreiben. Anschließend teilt sich die Gruppe auf die vier Seiten auf. Der Spielleiter liest immer zwei Nummernaus einem gegenüberliegenden Team vor, die dann versuchen müssen, die Socke auf ihre Seite zubringen.  Der Kampf um die Socke gilt als gewonnen, sobald die Socke über der abgesperrten Linie ist. \
-*WICHTIG:* Darauf achten, dass die Kinder alle angemessene Kleidung anhaben und die Kämpfe nicht zu stark werden.
+
+
+#showybox(
+  frame: (
+    border-color: red.darken(50%),
+    title-color: red.lighten(60%),
+    body-color: red.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Wichtig!",
+  [Darauf achten, dass die Kinder alle angemessene Kleidung anhaben und die Kämpfe nicht zu stark werden.]
+)
 
 == Glucke, Küken, Fuchs
 #info(
@@ -197,7 +287,26 @@ Die Teilnehmer stellen sich in zwei Kreise voreinander auf. Eine Person sollte �
   material: "Tuch/Schnur"
 )
 Alle Kinder stehen in einer Schlange hintereinander und fassen mit den Händen um die Hüfte des Vordermanns. Der Letzte (=Schwanz) hat eine Reepschnur/ein Tuch etc. in seiner Hose als Schwanz stecken. Der Erste (=Drachen-Kopf) muss den Schwanz abreißen, ohne dass sein „Körper“ (= restliche Kinder) auseinanderfällt. Hat er es geschafft, kommt der Erste an die letzte Stelle, und so weiter.\
-*Variante:* \ 2 Drachen
+
+
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [2 Drachen]
+)
 
 
 
@@ -289,6 +398,24 @@ Weil sich die Stationen beliebig zusammenstellen lassen, passt die Olympiade fü
 
 Neben denn nachfolgenden Spielen kann man auch noch weitere Spiele in die Olympiade einbauen, wie z.B. Eierlauf, Sackhüpfen, Dosenwerfen, Wassertransport, etc. Insbesondere aus dem Kapitel Kooperations-/Vertrauensübungen lassen sich viele Spiele in die Olympiade einbauen.
 
+#showybox(
+  frame: (
+    border-color: red.darken(50%),
+    title-color: red.lighten(60%),
+    body-color: red.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Wichtig!",
+  [Die Spiele sollten so ausgewählt werden, dass für jeden Typ an Kind ein Spiel dabei ist. Also nicht nur Bewegungspiele oder Denkspiele. Außerdem sollte darauf geachtet werden, dass die Spiele nicht zu lange dauern, damit die Kinder nicht die Lust verlieren.]
+)
+
 
 
 === Kim Spiel
@@ -318,7 +445,7 @@ Songs werden bis zu einem gewissen Punkt vorgespielt und dann gestoppt, sodass d
   material: "Bunte Zettel"
 )
 Eine Farbe wird genannt und man darf jedes andere Papier außer das mit der jeweiligen Farbe berühren. Ziel ist es, möglichst viele Zettel zu sammeln, ohne die genannte Farbe zu berühren.
-#pagebreak()
+
 === Betreuer Gegenstände
 #info(groesse: [1-8 Spieler\*innen],
   alter: "6",
@@ -333,8 +460,23 @@ Jeder Betreuer gibt eine Gegenstand ab den die Kinder richtig zuordnen müssen.
 )
 Zwei Linien markieren die Spielfeldgrenzen, ein oder zwei Fänger stehen in der Mitte. Auf ein Signal müssen alle anderen von einer Seite zur anderen laufen, ohne sich abschlagen zu lassen. Wer gefangen wird, reiht sich in der Mitte ein und fasst den Fänger an der Hand. So wächst bei jeder Runde die „Mauer”, die dann gemeinsam Läufer fängt. Dabei darf die Kette nicht abreißen. Das Spiel endet, wenn nur noch ein Läufer übrig ist. Dieser gewinnt und beginnt in der nächsten Runde als Fänger.
 
-*Variante:*\
-Die Fänger bilden keine Kette.
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [Die Fänger bilden keine Kette.]
+)
 
 
 

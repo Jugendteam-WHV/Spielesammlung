@@ -11,6 +11,7 @@
 }
 #set page(header: none)
 #import "../template.typ": kapitel_seite
+#import "@preview/showybox:2.0.4": showybox
 #kapitel_seite("Kreisspiele", image("../Bilder Kapitel/Kreispiele.png"))
 #set page(header: context {
     // 1. Aktuelle Seitenzahl holen
@@ -58,8 +59,25 @@ Alle Spieler/innen sitzen im Stuhlkreis. Die Spielleitung steht in der Mitte und
 )
 Die Teilnehmer stehen im Kreis, ein Spieler in der Mitte. Dieser zeigt auf einen Spieler und sagt einen Tiernamen. Der betroffene Spieler und seine beiden Nachbarn müssen nun das Tier darstellen –wer einen Fehler macht, geht in die Mitte Affe: Mittlerer Spieler: Mund zu / linker Spieler –Ohren zu / rechter Spieler –Augen zu Elefant: Mittlerer Spieler: Rüssel / rechter und linker Spieler jeweils ein Ohr mit den Armen Giraffe: Mittlerer Spieler streckt beide Arme hoch (Hals) / linker Spieler Ohren / rechter Spieler Körper\ \
 
-    *Varianten:* \ Känguruh, Kamel, Palme, Toaster, Ente (Der Spielleiter muss sich dafür Figuren ausdenken)
 
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [Känguruh, Kamel, Palme, Toaster, Ente (Der Spielleiter muss sich dafür Figuren ausdenken]
+  )
 == Buchstabenkette
 #info(
   groesse: [8-20 Spieler\*innen],
@@ -76,8 +94,24 @@ Das erste Kind nennt ein Wort, z.B.: „Banane“. Das zweite Kind muss dann aus
 )
 Alle Spieler sitzen oder stehen im Kreis. Einer beginnt mit dem Geräusch eines Autos (z.B.: „niu“). Sein Nachbar setzt das Geräusch fort. Zur gleichen Zeit beginnt jemand mit einem Schweinegrunzen in dieselbe Richtung. Das Spiel endet, wenn das Auto das Schwein „überholt“ (das Schwein wurde überfahren).
 
-*Varianten:* \
-Kissenrennen – zwei Kissen werden mit gleichem Abstand losgeschickt. Wenn ein Kissen das andere überholt, gewinnt die jeweilige Mannschaft.
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [Kissenrennen – zwei Kissen werden mit gleichem Abstand losgeschickt. Wenn ein Kissen das andere überholt, gewinnt die jeweilige Mannschaft.]
+)
 
 == Obstsalat
 #info(
@@ -228,8 +262,25 @@ Wer einen Fehler macht, rückt auf den Platz des Klomodells ab, alle anderen rü
 - Bauer
 - Magt
 - Klomodel
-* Variante:*
-Mann kann bestimmen den ab einer bestimmten Rolle die unteren Rollen diese Siezen müssen. Aber Untereinander können die Oberen der Stadt sich noch duzen.
+
+
+#showybox(
+  frame: (
+    border-color: green.darken(50%),
+    title-color: green.lighten(60%),
+    body-color: green.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Variation",
+  [Mann kann bestimmen den ab einer bestimmten Rolle die unteren Rollen diese Siezen müssen. Aber Untereinander können die Oberen der Stadt sich noch duzen.]
+)
 
 == Whisky Mixer <Whisky_Mixer>
 

@@ -1,5 +1,6 @@
 #import "template.typ": *
 #import "@preview/in-dexter:0.7.2": *
+#import "@preview/showybox:2.0.4": showybox
 #let index-main(..args) = index(fmt: strong, ..args)
 
 
