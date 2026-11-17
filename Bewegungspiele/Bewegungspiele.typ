@@ -85,7 +85,12 @@ Ein Spieler ist der erste Ticker und muss andere Spieler versuchen zu fangen.  A
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -123,7 +128,12 @@ Rollen zum Spiel: Riesen:Sie stellen sich auf Zehenspitzen, strecken die Arme in
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -151,7 +161,12 @@ Jedes Kind erhält einen Kegel. Alle Mitspieler verteilen sich in der Halle und 
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -189,7 +204,12 @@ Auf Kommando beginnt das Spiel. Der jeweils Erste jeder Gruppe läuft in die Mit
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -249,7 +269,12 @@ Alle Spieler sind Flöhe. Einer davon ist der Fänger, ihm werden die Augen verb
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -299,7 +324,12 @@ Alle Kinder stehen in einer Schlange hintereinander und fassen mit den Händen u
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -407,7 +437,12 @@ Neben denn nachfolgenden Spielen kann man auch noch weitere Spiele in die Olympi
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -469,7 +504,12 @@ Zwei Linien markieren die Spielfeldgrenzen, ein oder zwei Fänger stehen in der 
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,

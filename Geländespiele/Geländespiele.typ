@@ -138,7 +138,12 @@ Es wird eine Person aus der Gruppe bestimmt, die zum Contacto wird. Der Contacto
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -158,7 +163,12 @@ Es wird eine Person aus der Gruppe bestimmt, die zum Contacto wird. Der Contacto
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -273,7 +283,12 @@ Nach Ablauf der 30 Minuten wird die über die Grenze gebrachte und die beschlagn
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -320,7 +335,12 @@ Die Spieler machen sich im Gelände auf die Socken und versuchen mit dem Lichtke
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,

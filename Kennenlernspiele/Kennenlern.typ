@@ -112,7 +112,12 @@ Einer steht in der Mitte. Er deutet auf jemanden im Kreis und sagt "Zip". Der An
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -180,7 +185,12 @@ Spiel wie zuvor, jedoch anstatt Papierblätter zu nehmen, nimmt sich jeder eine 
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,

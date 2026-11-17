@@ -50,7 +50,12 @@ Die Spieler bewegen sich über die Spielfläche und sind freie Atome. Der Spiell
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -148,7 +153,12 @@ Es sollen berühmte Paare gefunden werden, jeder TN bekommt einen Zettel mit ein
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -178,7 +188,12 @@ Jeder Mitspieler zieht eine Karte. Je nach gewünschter Gruppengröße gibt es f
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,

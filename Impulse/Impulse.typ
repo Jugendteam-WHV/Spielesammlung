@@ -1,5 +1,6 @@
 #import "../template.typ": kapitel_seite
 #import "@preview/showybox:2.0.4": showybox
+
 #kapitel_seite("Impulse", image("../Bilder Kapitel/Impuls.png"))
 #set page(header: context {
     // 1. Aktuelle Seitenzahl holen

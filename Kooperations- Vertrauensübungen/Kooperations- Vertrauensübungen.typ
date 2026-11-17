@@ -62,7 +62,12 @@ Aus Seilen wird ein Netz hergestellt, welches zwischen 2 Bäumen oder Pfosten ge
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -90,7 +95,12 @@ Zwei Personen sitzen mit angewinkelten Beinen Rücken an Rücken und müssen ver
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -127,7 +137,12 @@ Die Gruppe bekommt Bahnelemente für jeden Teilnehmer. Nun bekommen sie verschie
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -173,7 +188,12 @@ Zwei Personen sitzen sich gegenüber. Jeder hat die Aufgabe dem Gegenüber etwas
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -212,7 +232,12 @@ Alle Kinder stellen sich in einem großen Kreis auf, laufen dann aufeinander zu,
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -240,7 +265,12 @@ Es werden 9 Stühle aufgestellt: 3 Reihen mit jeweils 3 Stühlen. Es gibt 2 Mann
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -274,7 +304,12 @@ Die Kreise der andersfarbigen Gruppe dürfen nur genutzt werden, wenn eine Perso
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -323,7 +358,12 @@ Stufe 5: die gesamte Gruppe\
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -356,7 +396,12 @@ gegenüberliegende Ziel noch nicht erreicht werden kann. Die Aufgabe ist geschaf
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -418,7 +463,12 @@ Diese Aufgabe birgt erhebliches Konfliktmaterial! Nahezu immer ist zu beobachten
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -451,7 +501,12 @@ Nur eine Person aus der Gruppe darf an die Startlinie treten und eines der Felde
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -459,7 +514,7 @@ Nur eine Person aus der Gruppe darf an die Startlinie treten und eines der Felde
   title: "Varianten für Gruppe",
   [-  Die Gruppe darf sich um das Feld herum aufstellen und direkt helfen.
 - Die Gruppe muss sich im Nebenraum aufhalten und es kommt immer nur eine Person zum Feld.
-Zu 1: Hier kann man sich wieder rum entscheiden. Darf die Gruppe per Sprache Hilfestellung geben (leichtere Variante),oder hat sie lediglich eine gewisse Zeit zur Planung und muss dann während der Aktion still sein? Zu 2: Geht unter Umständen nur, wenn man zu zweit anleiten kann und die Gruppe im Nebenraum beaufsichtigt werden kann.Auch hier darf man sich entschieden ob die Gruppe sich Hilfestellung, z.B: Blatt Papier und Stift holt, oder dieses untersagt ist (schwierigste Variante)]
+Zu 1: Hier kann man sich wieder rum entscheiden. Darf die Gruppe per Sprache Hilfestellung geben (leichtere Variante),oder hat sie lediglich eine gewisse Zeit zur Planung und muss dann während der Aktion still sein? Zu 2: Geht unter Umständen nur, wenn man zu zweit anleiten kann und die Gruppe im Nebenraum beaufsichtigt werden kann.Auch hier darf man sich entschieden ob die Gruppe sich Hilfestellung, z.B: Blatt Papier und Stift holt, oder dieses untersagt is (schwierigste Variante)]
 )
 
 
@@ -473,7 +528,12 @@ Zu 1: Hier kann man sich wieder rum entscheiden. Darf die Gruppe per Sprache Hil
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,

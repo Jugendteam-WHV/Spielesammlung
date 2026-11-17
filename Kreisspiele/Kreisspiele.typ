@@ -70,7 +70,12 @@ Die Teilnehmer stehen im Kreis, ein Spieler in der Mitte. Dieser zeigt auf einen
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -104,7 +109,12 @@ Alle Spieler sitzen oder stehen im Kreis. Einer beginnt mit dem Geräusch eines 
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -273,7 +283,12 @@ Wer einen Fehler macht, rückt auf den Platz des Klomodells ab, alle anderen rü
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,

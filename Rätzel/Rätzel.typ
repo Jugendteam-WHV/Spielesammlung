@@ -42,7 +42,12 @@
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -67,7 +72,12 @@ Der Spielleiter zieht wiederholt "Dreiecke" zwischen den Mitspielern, Gegenstän
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -94,7 +104,12 @@ Anschließend gibt er den Löffel weiter. Diejenigen, die das Spiel bereits kenn
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -118,7 +133,12 @@ Anschließend gibt er den Löffel weiter. Diejenigen, die das Spiel bereits kenn
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -136,7 +156,12 @@ Anschließend gibt er den Löffel weiter. Diejenigen, die das Spiel bereits kenn
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -163,7 +188,12 @@ Eine Flasche wird im Kreis herumgegeben. Der Übergebende sagt jeweils, ob die F
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -186,7 +216,12 @@ Eine Flasche wird im Kreis herumgegeben. Der Übergebende sagt jeweils, ob die F
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -216,7 +251,12 @@ Der Spielleiter sagt: "Ich gehe ins Kaufhaus. Dort gehe ich in den (X). Stock (l
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -238,7 +278,12 @@ Der Spielleiter sagt: "Ich gehe ins Kaufhaus. Dort gehe ich in den (X). Stock (l
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -261,7 +306,12 @@ Die Mitspieler packen ihren Koffer für das "Keinikeinuland". Der Spielleiter en
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
@@ -308,7 +358,12 @@ Spieler die das Spiel kennen lassen wiederholt Züge von einen Punkt zu ein ande
   title-style: (
     color: black,
     weight: "bold",
-    align: left
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
   ),
   shadow: (
     offset: 3pt,
