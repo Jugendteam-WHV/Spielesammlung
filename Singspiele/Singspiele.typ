@@ -207,6 +207,7 @@ Einteilung in drei Gruppen:
 
 Der Spielleiter steuert Lautstärke und Geschwindigkeit der einzelnen Chöre.
 
+#pagebreak()
 == Auf dem Donnerbalken saßen zwei Gestalten
 #info(
   groesse: [5-99 Spieler\*innen],

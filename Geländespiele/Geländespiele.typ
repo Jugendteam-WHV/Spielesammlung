@@ -68,8 +68,30 @@ Nach Spielbeginn (zuvor festgelegte Uhrzeit) schwärmen die  Gruppen  aus.  Trif
   material: "2 Flaggen oder ähnliches und Absperrband"
 )
 
- Bei diesem Geländespiel gibt es 2 Teams, die in 2 ungefähr gleich großen Gebieten die Flagge des anderen Teams bzw. deren Hauptquartier suchen müssen. Zuerst teilt man 2 Teams ungefähr in 2 gleich große und starke Gruppen auf und gibt jedem Team eine Fahne, die gut sichtbar aufgehängt werden muss, bzw. mit dem Stab im Boden steckt.Nur auf den Boden legen und mit Laub abdecken ist nicht erlaubt. Wenn ein Angreifer des gegnerischen Teams in die Hälfte einer Mannschaft kommt, darf diese ihn versuchen zu fangen. Wenn es der Mannschaft gelingt ihn zu berühren, muss dieser Spieler ins Gefängnis. Er muss mit mindestens 1 Fuß im Gefängnis sein. Falls mehrere Gefangene dort sein sollten, können sie eine Kette bilden. Der Gefängniswärter muss mindestens einen Abstand von 2,5m um das Gefängnis herum einhalten, da es ansonsten keiner schafft jemanden zu befreien wodurch das Spiel für Gefangene langweilig wird. Wenn jemand die Fahne geklaut hat muss er sie über die Mittellinie bringen. Falls er dies nicht schaffen sollte da ihn ein Verteidiger gefangen hat, kann er die Flagge entweder kurz vorher einem Mitspieler übergeben, NICHT ZUWERFEN!!!! Falls er das nicht tut oder nicht tun kann, muss er die Flagge abgeben und die Verteidiger haben 30 Sekunden Zeit die Fahne erneut zu verstecken, oder wieder im Hauptquartier zu hissen. \ \
-    *Wertung:* \ Gewonnen hat das Team das am häufigsten die Fahne der Gegner über die Grenzlinie ins eigene Gebiet gebracht hat. Bei Gleichstand hätte dann die Mannschaft gewonnen, die weniger Leute im Gefängnis haben. Nach jeder Runde wird das Gelände/die Spielseite gewechselt.
+ Bei diesem Geländespiel gibt es 2 Teams, die in 2 ungefähr gleich großen Gebieten die Flagge des anderen Teams bzw. deren Hauptquartier suchen müssen. Zuerst teilt man 2 Teams ungefähr in 2 gleich große und starke Gruppen auf und gibt jedem Team eine Fahne, die gut sichtbar aufgehängt werden muss, bzw. mit dem Stab im Boden steckt.Nur auf den Boden legen und mit Laub abdecken ist nicht erlaubt. Wenn ein Angreifer des gegnerischen Teams in die Hälfte einer Mannschaft kommt, darf diese ihn versuchen zu fangen. Wenn es der Mannschaft gelingt ihn zu berühren, muss dieser Spieler ins Gefängnis. Er muss mit mindestens 1 Fuß im Gefängnis sein. Falls mehrere Gefangene dort sein sollten, können sie eine Kette bilden. Der Gefängniswärter muss mindestens einen Abstand von 2,5m um das Gefängnis herum einhalten, da es ansonsten keiner schafft jemanden zu befreien wodurch das Spiel für Gefangene langweilig wird. Wenn jemand die Fahne geklaut hat muss er sie über die Mittellinie bringen. Falls er dies nicht schaffen sollte da ihn ein Verteidiger gefangen hat, kann er die Flagge entweder kurz vorher einem Mitspieler übergeben, NICHT ZUWERFEN!!!! Falls er das nicht tut oder nicht tun kann, muss er die Flagge abgeben und die Verteidiger haben 30 Sekunden Zeit die Fahne erneut zu verstecken, oder wieder im Hauptquartier zu hissen. 
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Wertung",
+  [Gewonnen hat das Team das am häufigsten die Fahne der Gegner über die Grenzlinie ins eigene Gebiet gebracht hat. Bei Gleichstand hätte dann die Mannschaft gewonnen, die weniger Leute im Gefängnis haben. Nach jeder Runde wird das Gelände/die Spielseite gewechselt.]
+)
 
 == Farbenspiel
 #info(
@@ -214,7 +236,7 @@ Jedes Kind bekommt eine Karte, auf der seine Rolle steht. Es gibt den Boss, den 
 )
 
 Das Spiel brauch etwas Vorbereitung: Man muss viele Buchstaben mit unterschiedlichen Zahlenwerten vorbereiten (seltenen Buchstaben wie z,q,w,x,y,... haben einen höheren Werte, Buchstaben wie e,a... natürlich einen geringeren Die Werte sollten sich zwischen 1-10 Punkten bewegen). Die Buchstaben werden jetzt im Wald verteilt, schön großzügig, danach haben die Kinder die Aufgabe, die Buchstaben zu sammeln und in ihr Lager zu bringen. Sie dürfen maximal 5 auf einmal sammeln, wenn sie von einem Betreuer*in getickt werden,müssen sie auch alle abgeben. Im Lager bilden sie dann Wörter die möglichst vielen Punkte bringen. Wenn die Buchstaben einmal benutzt worden sind, dürfen sie von den Betreuern wieder erneut verteilt werden.  Die Gruppe die am Ende, die meisten Wörter mit den meisten Punkte gelegt hat,gewinnt.
-
+#pagebreak()
 == Pyramidenspiel
 #info(
   groesse: "10-30 Spieler*innen",

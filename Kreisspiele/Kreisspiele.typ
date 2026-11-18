@@ -83,6 +83,8 @@ Die Teilnehmer stehen im Kreis, ein Spieler in der Mitte. Dieser zeigt auf einen
   title: "Variation",
   [Känguruh, Kamel, Palme, Toaster, Ente (Der Spielleiter muss sich dafür Figuren ausdenken]
   )
+
+#pagebreak()
 == Buchstabenkette
 #info(
   groesse: [8-20 Spieler\*innen],
@@ -193,6 +195,7 @@ Wird ein anderes Gegacker ausgesprochen (zum Beispiel: "buut"), wird ein Spieler
 )
 An jede Person wird eine Spielkarte verteilt. Die Person mit dem Herzkönig ist der Mörder. Niemand weiß vom jeweilig anderen, was er für Karten hat. Blinzelt der Mörder jemanden an, muss dieser seine Karte aufdecken und ist tot. Wer einen Verdacht hat meldet sich: "ich habe einen Verdacht!". Sobald eine weitere Person ebenfalls sagt "Ich habe einen Verdacht!", müssen beide gleichzeitig ihren Verdacht nennen. Stimmen beide Namen überein, muss der Verdächtige sagen ob er der Mörder ist. Stimmen die Namen nicht überein, dann sind beide ausgeschieden (auch wenn ein Name eventuell richtig sein könnte).
 
+#pagebreak()
 == Schenkelklopfen
 #info(
   groesse: [6-25 Spieler\*innen],

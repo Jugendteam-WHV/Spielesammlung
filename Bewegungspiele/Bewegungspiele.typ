@@ -291,6 +291,7 @@ Alle Spieler sind Flöhe. Einer davon ist der Fänger, ihm werden die Augen verb
 )
 Die Teilnehmer stellen sich in zwei Kreise voreinander auf. Eine Person sollte übrig sein und stellt den Fuchs da. Die Person im hinteren Kreis sind die Küken und im vorderen die Glucken. Die Glucken versuchen mit lautem Gegacker die Küken zu retten und den Fuchs zu verscheuchen. Der Fuchs versucht an die Küken dran zu kommen. Beidem Spiel geht es darum zu lernen wie man sich für einander stark macht. 
 
+#pagebreak()
 == Jeder fängt jeden
 #info(
   groesse: [6-40 Spieler\*innen],
@@ -374,6 +375,7 @@ Etwas zum Abstecken des Spielfeldes, Bälle Es wird ein rundes Spielfeld abgeste
 )
 Je zwei Kinder haken sich mit Armen bei einander ein. Diese Zweiergrüppchen verteilen sich auf der Fläche.Zwei Kinder sind Fänger und Gefangener. Gejagter kann sich in Sicherheit bringen, indem er sich bei einem Zweiergrüppchen dazu einhackt. Hat er sich eingehakt, muss sich der äußere dritte von dem Grüppchen lösen und wird nun zum Fänger. Der Fänger wird somit plötzlich zum Gejagten.Kann der Fänger den Gejagten fangen, wechseln ebenfalls die Rollen –der Fänger wird zum Gejagten und umgekehrt.Dieses Spiel ist auch sehr nett als Storch und Bär (statt Hase und Igel). Alles gleich, jedoch ist der Fänger der Bär und muss während dem Fangen laut brüllen und mit den Händen„Bär Kratz-Fang-Bewegungen“ machen.Der Gefangene ist der Storch. Dieser muss mit ausgestreckten Armen vor sich in die Händeklatschen und während dem Rennen laut „klapp –klapp“ rufen.
 
+#pagebreak()
 == Wo ist mein Huhn <Wo_ist_mein_Huhn>
 #info(
   groesse: [6-30 Spieler\*innen],

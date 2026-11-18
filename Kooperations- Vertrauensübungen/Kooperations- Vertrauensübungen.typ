@@ -108,7 +108,7 @@ Zwei Personen sitzen mit angewinkelten Beinen Rücken an Rücken und müssen ver
   title: "Sinn",
   [Aufeinander abgestimmtes Handeln führt zum Ziel.]
 )
-
+#pagebreak()
 == Schenkelsitzen
 #info(
   groesse: "8-15 Spieler*innen",
@@ -169,7 +169,29 @@ Zwischen Mannschaft A, die sich aufgeteilt in einer Entfernung von ca. 20 Metern
 
 Stühle werden wie bei der Reise nach Jerusalem in einer Reihe Rücken an Rücken aufgestellt. Die Jugendlichen gehen im Kreis um die Stuhlreihe. Bei Musikstopp springt jeder auf einen Stuhl. Dabei ist es egal, ob 1, 2 oder mehr Personen auf einem Stuhl stehen. Nach jeder Runde wird ein Stuhl weggenommen. Ziel des Spiels ist es, dass alle der Gruppe auf den übrigen Stühlen Platz finden und die Gruppe gemeinsam dieses Ziel erreicht. Das Spiel ist aus, sobald einer aus der Gruppe nicht mehr auf den übrigen Stühlen gehalten werden kann.
 
-*Sinn:* nur gemeinsam ist das Ziel zu erreichen, durch Zusammenhalt, durch einander Festhalten
+
+#showybox(
+  frame: (
+    border-color: blue.darken(50%),
+    title-color: blue.lighten(60%),
+    body-color: blue.lighten(80%)
+  ),
+  title-style: (
+    color: black,
+    weight: "bold",
+    align: left,
+    boxed-style: (
+      anchor: (
+        x: left,
+      )
+    )
+  ),
+  shadow: (
+    offset: 3pt,
+  ),
+  title: "Sinn",
+  [Nur gemeinsam ist das Ziel zu erreichen, durch Zusammenhalt, durch einander Festhalten]
+)
 == Besser als Eddy Murphy
 #info(
   groesse: "2 Spieler*innen",
@@ -245,7 +267,7 @@ Alle Kinder stellen sich in einem großen Kreis auf, laufen dann aufeinander zu,
   title: "Sinn",
   [Koordination und Kommunikation führen zur Auflösung des (gordischen) Knotens]
 )
-
+#pagebreak()
 == Tic Tac Toe
 #info(
   groesse: "6 Spieler*innen",
