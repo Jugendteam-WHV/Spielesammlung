@@ -93,6 +93,7 @@ Musik aus und ruft einen Namen aus der Gruppe. Nun müssen alle zu der Person la
 Alle Personen setzen sich in einem Kreis zusammen, je mehr, desto besser. Der Erste aus der Runde sagt: "Ich packe meinen Koffer und nehme mit: „seinen Namen“, der Zweite: "Ich packe meinen Koffer und nehme mit: den Namen vom vorherigen und seinen eigenen“, der Dritte, : macht genauso weiter. Und so geht das immer weiter, bis sich jemand verspricht oder die Reihenfolge durcheinanderbringt.Dann  beginnt man von vorne 
 
 
+#pagebreak()
 == Zip Zap
 #info(
   groesse: [10-33 Spieler\*innen],
@@ -207,6 +208,7 @@ Spiel wie zuvor, jedoch anstatt Papierblätter zu nehmen, nimmt sich jeder eine 
 )
 Ein Wollknäuel wird gehalten. Die erste Person hält den Faden in der Hand und stellt irgendeiner anderen Person eine Frage, indem das Knäuel dieser Person zugeworfen wird. Nach Beantwortung dieser Frage wirft wiederum diese Person den Knäuel weiter. So entsteht mit der Zeit ein tolles Spinnennetz. Mit etwas Glück so stabil, dass sich am Schluss eine Person darauflegen kann und angehoben werden kann.
 
+#pagebreak()
 == Wahr oder Falsch
 #info(
   groesse: [6-20 Spieler\*innen],
@@ -215,7 +217,6 @@ Ein Wollknäuel wird gehalten. Die erste Person hält den Faden in der Hand und 
 )
 Jedes Gruppenmitglied macht zu verschiedenen Eigenschaften (Hobby, Schule/Beruf, Freund/Freundin, Urlaub, Erlebnis, …) je eine Aussage über sich. Eine Aussage ist falsch, die anderen stimmen. In der gemeinsamen Vorstellungsrunde stellt sich jeder vor und die anderen müssen erraten, welche die falsche Aussage ist.
 
-#pagebreak()
 
 == Vorstellen mit Zettel ziehen
 #info(
@@ -240,7 +241,7 @@ Alle Gruppenmitglieder stehen im Kreis. Der Gruppenleiter nennt einen Namen. Die
   material: "Kein Material nötig"
 )
 Alle stehen im Kreis. Der Spielleiter sagt: "Denke dir für dich 5 Personen, zu denen du gleich hingehst und denen du einen guten Tag wünscht!". Auf "3" laufen nun alle zu den Personen, die sie sich vorher still ausgesucht haben.
-
+#pagebreak()
 == Namesstaffel
 #info(
   groesse: [6-30 Spieler\*innen],
@@ -249,7 +250,6 @@ Alle stehen im Kreis. Der Spielleiter sagt: "Denke dir für dich 5 Personen, zu 
 )
 Es bilden sich kleine Gruppe, je nach TN Zahl.  Auf der einen Seite befindet sich Kreppband und Eddings, auf der anderen Seite die TN. Die TN müssen nacheinander zu dem Krepband rennen und sich ein Namensschild machen, dann den nächsten aus der Gruppe abklatschen. Die Gruppe, die zuerst fertig ist, gewinnt.
 
-#pagebreak()
 == Geheimcode
 #info(
   groesse: [6-30 Spieler\*innen],

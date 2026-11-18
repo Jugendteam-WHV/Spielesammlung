@@ -319,7 +319,7 @@ Die Mitspieler packen ihren Koffer für das "Keinikeinuland". Der Spielleiter en
   title: "Lösung",
   [Wie der Name sagt: Man darf nur Gegenstände mitnehmen, in deren Namen weder der Buchstabe "i" noch der Buchstabe "u" vorkommt.]
 )
-
+#pagebreak()
 == Maus-Maus-Elefant
 *Ablauf:* \
 Ein Spieler zeigt eine Bewegungsabfolge an den Fingern vor und spricht dazu einen Text. Die anderen müssen es *exakt* nachmachen. Der Clou liegt oft im Detail (z.B. einem Räuspern davor oder der Handhaltung danach).

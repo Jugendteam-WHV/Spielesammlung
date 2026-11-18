@@ -80,6 +80,8 @@ Jeder Spieler erhält einen Zettel. Anschließend müssen sich möglichst schnel
 #info(groesse: "10-40", alter: "6", material: "Je nach TN Zahl Fäden aus dem gleichen Material (ca. 0,5m lang)")
 Der Spielleiter hält ein Büschel mit Fäden in einer Hand in der Mitte hoch. Jeder TN soll sich ein Ende greifen und nicht mehr loslassen. Beim Entwirren des Wollknäuels wird er am anderen Ende auf einen Partner stoßen.
 
+#pagebreak()
+
 == Überraschungseier
 #info(groesse: "10-40", alter: "6", material: "Für jeden TN eine Kapsel aus dem Überraschungsei, gefüllt mit verschiedenen Materialien")
 Der Spielleiter präpariert vorher diverse Kapseln aus dem Überraschungsei. In den Dosen sind verschiedene Gegenstände (z.B. Reis, Erbsen, Sand, Mehl, etc.).  Jeder TN bekommt eine Dose und versucht die anderen mit den gleichen Inhalten in den Eiern zu finden (natürlich nur durchschütteln und nicht durch Hineinsehen). Zum Schluss darf überprüft werden, ob es auch stimmt.
@@ -110,7 +112,9 @@ Der Spielleiter bereitet verschiedene Karten mit Tieren vor. Jeder TN bekommt ei
 )
 Es werden vorher genügend Gummibärchen oder Bonbons bestimmter Farben/Sorten herausgesucht, sodass jeder nur einen ziehen braucht und dann sich so in Gruppen einteilt
 
+#pagebreak()
 == Schuheinteilung
+
 #info(
   groesse: [10-99],
   alter: "6",

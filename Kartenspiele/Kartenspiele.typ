@@ -106,7 +106,7 @@ Das Spiel endet, wenn nur noch ein Spieler Karten auf der Hand hat. Dieser ist d
 
 *Varianten:*\
 In manchen Spielrunden darf der Verteidiger bei bestimmten Varianten (z.\,B. „Perevodnoy Durak“) den Angriff weiterleiten, indem er eine Karte gleichen Werts wie die Angreifende spielt. Der nächste Spieler im Uhrzeigersinn wird dadurch zum neuen Verteidiger. Bei vier oder sechs Spielern kann auch in Teams gespielt werden.
-
+#pagebreak()
 == Arschloch
 #info(alter: "10", groesse: "3 oder 8", material: "Standard-52-Karten-Deck")
 *Arschloch* ist ein beliebtes, unterhaltsames Kartenspiel für drei bis acht Spieler. Ziel des Spiels ist es, möglichst schnell alle eigenen Karten loszuwerden, um sich einen hohen Rang zu erspielen – idealerweise den des Königs. Der Spieler, der als letzter seine Karten ablegt, wird „Arschloch“ genannt und hat in der nächsten Runde mit Nachteilen zu rechnen. Das Spiel lebt vom sozialen Gefälle, das durch die Ränge entsteht, und bietet viel Raum für Schadenfreude und Taktik.
